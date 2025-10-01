@@ -1,0 +1,2 @@
+- [ ] I have read the [guidelines for contributing](https://github.com/chartjs/Chart.js/blob/master/CONTRIBUTING.md)
+- [ ] I have included an example of my changes on a website such as [JS Bin](https://jsbin.com/), [JS Fiddle](https://jsfiddle.net/), or [Codepen](https://codepen.io/pen/). ([Template](https://codepen.io/pen?template=JXVYzq))

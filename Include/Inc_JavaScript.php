@@ -1,0 +1,3 @@
+<script type="text/javascript" language="javascript" src="https://www.portalsema.ba.gov.br/_portal/JavaScript/jquery-1.4.2.js"></script>
+<script type="text/javascript" language="javascript" src="https://www.portalsema.ba.gov.br/_portal/JavaScript/jquery.maskedinput-1.2.2.js"></script>
+<script type="text/javascript" language="javascript" src="https://www.portalsema.ba.gov.br/_portal/JavaScript/mascaras.js"></script>

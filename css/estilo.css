@@ -1,0 +1,619 @@
+.Background_Aba_off {
+    background-image:url(https://www.portalsema.ba.gov.br/_portal/Imagens/bgaba_off.gif);
+}
+.Background_Aba_on {
+    background-image:url(https://www.portalsema.ba.gov.br/_portal/Imagens/bgaba_on.gif);
+    font-size: 11px;
+    color: #6e6e6e;
+    font-weight: bold;
+}
+.text_banner {
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-top:3px;
+    color: #98adb6;    
+
+}
+.text_banner strong {
+    color:#9dabb4;
+}
+.text_actions {
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-top:4px;
+    color: #9FA3A4;
+    vertical-align:top;
+}
+.text_usuario {
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top:3px;
+    color:#666;
+}
+.text_saudacao_usuario {
+    font-family: sans-serif;
+    font-size: 16px;
+    color:#90a6b0;
+}
+.text_informacoes {
+    text-align:center;
+    font-family:Tahoma, Geneva, sans-serif;
+    font-size: 11px;
+    color: #9dabb4;
+}
+#limites_login {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 674px;
+    height: 250px;
+    margin-top: -125px;
+    margin-left: -340px;
+    z-index:1;
+}
+#body_login {
+    width: 674px;
+    height: 194px;
+    background-color: #F7F9F8;
+    border: 2px solid #E6EEF1;
+    padding: 3px 3px 3px 3px;
+}
+#body_Home {
+    width:900px;
+    height: 194px;
+    background-color: #F7F9F8;
+    border: 2px solid #E6EEF1;
+    padding: 3px 3px 3px 3px;
+}
+#footer_login {
+    width: 674px;
+    height: 44px;
+    background-image:url(https://www.portalsema.ba.gov.br/_portal/Imagens/Topo/bg_footer.png);
+    border: 2px solid #E6EEF1;
+    margin-top:3px;
+    padding: 3px 3px 3px 3px;
+    background-repeat: repeat-x;
+}
+#footer_Home {
+    width: 900px;
+    height: 50px;
+    background-image:url(https://www.portalsema.ba.gov.br/_portal/Imagens/Topo/bg_footer.png);
+    border: 2px solid #E6EEF1;
+    margin-top:3px;
+    padding: 3px 3px 3px 3px;
+    background-repeat: repeat-x;
+}
+#table_body {
+    background-color:#ECF0F1;
+    border: 2px solid #E6EEF1;
+}
+.sistema{
+    background-color:#FFFFFF;
+    height:110px;
+    border: 1px dotted #CCC;
+    background-image:url(https://www.portalsema.ba.gov.br/_portal/Imagens/Sistemas/bg_sistemas.png);
+    background-repeat:repeat-x;
+}
+.sistema .titulo{
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top:3px;    
+    vertical-align:top;    
+    color:#666;
+}
+.destaque {
+    color:#DEB84B;
+}
+.input {
+    border: 1px solid #D0D1D3;
+    width:180px;
+    height:23px;
+    line-height:22px;
+    vertical-align:middle;    
+    font-size:14px;
+}
+.Botao_IMG_ALL
+{
+    color:white;
+    background-image: url('https://www.portalsema.ba.gov.br/_portal/Imagens/btn_img.png');
+    border:0px;
+    font-family: 'Maven Pro', sans-serif;
+    font-size:14px;
+    width:81px;
+    height:27px;
+}
+.text_login {
+    font-size: 18px;
+    color: #9dabb4;
+    font-family: sans-serif;
+}
+.botao_ok {
+    border: 2px solid #D0D1D3;
+    background-color:#D0D1D3;
+    font-size: 16px;
+    color: #9FA3A4;
+    width:50px;
+    height:27px;
+}
+body { 
+    margin: 0px 0px 5px 0px;
+    font-family: arial;
+    font-size: 11px;
+    color: #444444;
+    background-color: #ffffff;
+}
+#container{
+    margin-left:5px;
+    margin-right:5px;
+}
+.linkStatus {
+    color: #444444;
+    font-size: 11px;
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: #444444;
+    font-size: 11px;
+    text-decoration: none;
+}
+a:hover {
+    color: #666666;
+    font-size: 11px;
+    text-decoration: none;
+}
+a.rodapeLink:link, a.rodapeLink:visited {
+    vertical-align : middle;
+}
+a.rodapeLink:hover {
+    vertical-align : middle;
+}
+.menu_modulo_titulo {
+    font-size: 10px;
+    color: #333333;
+    background-color: #EDEDED;
+    padding-bottom: 2px;
+    padding-top: 1px;
+    border-bottom: 1px solid #D8D8D8;
+}
+.menu_modulo {
+    font-size: 11px;
+    color: #333333;
+    background-color: #EDEDED;
+    padding-bottom: 2px;
+    padding-top: 1px;
+    border-bottom: 1px solid #D8D8D8;
+}
+a.menu_modulo_link:link, a.menu_modulo_link:visited {
+    color: #333333;
+    text-decoration: none;
+    border-bottom: 0px;
+    margin-left: 10px;
+    padding-left: 0px;
+}
+a.menu_modulo_link:hover {
+    color: #333333;
+    text-decoration: none;
+    border-bottom: 0px;
+}
+.dataTitulo {
+    font-weight: bold;
+    font-size: 11px;
+    vertical-align : middle;
+    background-color: #D4D4D4;
+    height:21px;
+}
+.dataTeste {    
+    font-size: 11px;
+    vertical-align : middle;
+    background-color: #D4D4D4;
+    height:21px;
+}
+.dataLabel {
+    font-weight: bold;
+    font-size: 11px;    
+    vertical-align : middle;
+    background-color: #E7E7E7;
+    height:21px;
+}
+.dataLabelNovo {
+    font-weight: bold;
+    font-size: 11px;    
+    vertical-align : middle;
+    background-color: #708090;
+    color: white;
+    height:21px;
+}
+
+.dataLabelSemBold {
+    font-weight: normal;
+    font-size: 11px;
+    vertical-align : middle;
+    background-color: #E7E7E7;
+}
+.dataField {
+    font-weight: normal;
+    font-size: 11px;
+    vertical-align: middle;
+    background-color: #f2f2f2;
+    height:21px;
+}
+.dataField2 {
+    font-weight: normal;
+    font-size: 11px;
+    vertical-align: middle;
+    background-color:#ffffff;
+}
+.dataLinha {
+    font-size: 11px;
+    vertical-align : middle;
+}
+.dataTexto {
+    font-size: 10px;
+    vertical-align : middle;
+}
+
+/* ESPAÇO A ESQUERDA */
+.espacamento {
+    text-indent: 3px;
+}
+
+.titulo_pagina{
+    color: #325068;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+a.titulo_pagina:link, a.titulo_pagina:visited {
+    color: #325068;
+    font-size: 12px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+form {
+    margin: 0px;
+}
+.botao {
+    border: 1px solid #444444;
+    background-color: #ffffff;
+    font-size: 11px;
+    color: #444444;
+    font-weight: normal;
+    background-color: #dddddd;
+    background-position: bottom;
+}
+.buttonOn, .button:hover, .button:focus, .buttonOn:focus {
+    border: 1px solid #444444;
+    background-color: #ffffff;
+    font-size: 11px;
+    color: #444444;
+    font-weight: normal;
+    background-image: url(https://www.portalsema.ba.gov.br/_portal/Imagens/bg_botao.gif);
+    background-repeat: repeat-x;
+    background-position: top;
+}
+input,select {
+    border: 1px solid #888888;
+    font-size: 10px;
+    background-color: #ffffff;
+}
+input[type="text"]
+{
+    min-height: 15px;
+}
+.checkbox{
+    font-size: 10px;
+    background-color: #ffffff;
+}	
+.Oculto {
+    border: 1px solid #888888;
+    font-size: 10px;
+    background-color: #f2f2f2;
+}
+.Invisivel {
+    border: 0px solid #888888;
+    font-size: 10px;
+    vertical-align : middle;
+    background-color: #f2f2f2;
+}	
+.RealmenteInvisivel {
+    border: 0px solid #888888;
+    font-size: 12px;	
+    color: #000000;
+    font-family: Arial, Verdana, Helvetica, sans-serif;	
+    overflow:hidden;	
+}	
+.RealmenteInvisivel2 {
+    border: 0px solid #888888;
+    font-size: 12px;	
+    color: #000000;
+    font-family: Arial, Verdana, Helvetica, sans-serif;	
+    overflow:hidden;	
+    background-color: #f2f2f2;		
+}	
+.Desabilitado {
+    border: 0px solid #888888;
+    font-size: 10px;
+    background-color: #E7E7E7;
+}	
+.radio{
+    border: 0px;
+    font-size: 10px;
+    background-color: #f2f2f2;
+}
+.radioTitulo{
+    border: 0px;
+    font-size: 10px;
+    background-color: #D4D4D4;
+}
+.radioLabel{
+    border: 0px;
+    font-size: 10px;
+    background-color: #E7E7E7;
+}
+textarea {
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    border: 1px solid #888888;
+    font-size: 12px;
+    background-color: #ffffff;
+}
+.checkbox {
+    border:0px;
+    background-color: transparent;
+    margin: 0px;
+    vertical-align: middle; 
+}
+.leftColumaMenu  {
+    font-size: 11px;
+    color: #444444;
+    text-align: left;
+}
+.subMenu {
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #efefef;
+    border-top: 1px solid #9E9E9E;
+    border-bottom: 1px solid #9E9E9E;
+    border-left: 1px solid #9E9E9E;
+    border-right: 1px solid #9E9E9E;
+}
+.TabFormulario {
+    font-size: 10px;
+    background-color: #efefef;
+    border-bottom: 1px solid #9E9E9E;
+    border-top: 1px solid #9E9E9E;
+    border-left: 1px solid #9E9E9E;
+    border-right: 1px solid #9E9E9E;
+}
+.TabelaFormulario {
+    border-bottom: 1px solid #9E9E9E;
+    border-top: 1px solid #9E9E9E;
+    border-left: 1px solid #9E9E9E;
+    border-right: 1px solid #9E9E9E;
+}	
+.bgcolor {
+    background-color: #ACACAC;
+    border-bottom: 1px solid #000000;
+    border-top: 1px solid #000000;
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    padding-right: 10px;
+    text-align: right;
+}
+.Pesquisar {
+    color: #ffffff;
+    font-size: 10px;
+}
+.TabModulo {
+    text-decoration: none;
+    border-bottom: 1px solid #aaaaaa;
+    border-left: 1px solid #aaaaaa;
+    border-right: 1px solid #aaaaaa;
+    border-top: 1px solid #aaaaaa;
+}
+.linktab {
+    font-size: 11px;
+    color: #6e6e6e;
+    font-weight: bold;
+}
+.tabFiltro {
+    background-color: #efefef;
+    padding: 1px;
+    background-position: bottom;
+    background-repeat : repeat-x;
+    background-color: #efefef;
+    border-bottom: 1px solid #9E9E9E;
+    border-left: 1px solid #9E9E9E;
+    border-right: 1px solid #9E9E9E;
+}
+.tabPesquisa {
+    background-color: #efefef;
+    padding: 1px;
+    background-position: bottom;
+    background-repeat : repeat-x;
+    background-color: #efefef;
+    border-bottom: 1px solid #9E9E9E;
+    border-left: 1px solid #9E9E9E;
+    border-right: 1px solid #9E9E9E;
+    border-top: 1px solid #9E9E9E;
+}
+.operacoes {
+    font-size: 11px;
+    color: #ffffff;
+    background-color: #efefef;
+    border-bottom: 1px solid #9E9E9E;
+    border-top: 1px solid #9E9E9E;
+    border-left: 1px solid #9E9E9E;
+    border-right: 1px solid #9E9E9E;
+}
+.linhaHR {
+    color: #666666;
+    width: 100%;
+    background-color: #000000;
+}	
+/* GRID DE PAGINAÇÃO */
+.impressaoRelatorio{
+    font-family: arial;
+    font-size:12px;
+}
+.GridImpressao {
+    font-size: 11px;
+    color: #383838;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-top: 1px solid #9E9E9E;
+    border-bottom: 1px solid #9E9E9E;
+    border-left: 1px solid #9E9E9E;
+    border-right: 1px solid #9E9E9E;
+    text-decoration: none;
+}
+
+.GridPaginacao{
+    border: 1px solid #9E9E9E;
+}
+.GridPaginacaoCabecalho {
+    font-size: 11px;
+    color: #000099;
+    background-color: #eeeeee;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #9E9E9E;
+    text-decoration: none;
+}
+.GridPaginacaoCabecalhoClaro {
+    font-size: 10px;
+    color: #999999;
+    background-color: #F5F5F5;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-top: 1px solid #9E9E9E;
+    text-decoration: none;
+}
+a.GridPaginacaoRegistroNumRegistro:link, a.GridPaginacaoRegistroNumRegistro:visited {
+    color: #000099;
+    font-size: 11px;
+    font-weight: normal;
+    text-decoration: none;
+}
+a.GridPaginacaoRegistroNumRegistro:hover {
+    color: #000099;
+    font-size: 11px;
+    text-decoration: none;
+}	
+a.GridPaginacaoRegistroNumRegistro_1:link, a.GridPaginacaoRegistroNumRegistro_1:visited {
+    color: #7c7c7c;
+    font-size: 10px;
+    font-weight: normal;
+    text-decoration: none;
+}
+a.GridPaginacaoRegistroNumRegistro_1:hover {
+    color: #000000;
+    font-size: 10px;
+    text-decoration: none;
+}
+.GridPaginacaoRegistroNumRegistro{
+    font-size: 11px;
+    color: #000099;
+    background-color: #eeeeee;
+    text-decoration: none;
+}
+.GridPaginacaoRegistroNumRegistro_1 {
+    font-size: 10px;
+    color: #999999;
+    background-color: #eeeeee;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-top: 1px solid #ffffff;
+    text-decoration: none;
+}
+.GridPaginacaoRegistroCabecalho{
+    font-size: 11px;
+    color: #444444;
+    font-weight: bold;
+    text-align: left;
+    background-color: #DFDFDF;
+}
+.GridPaginacaoRegistroCabecalhoLinha {
+    background-color: #cccccc;
+}
+.GridPaginacaoLink {
+    font-size: 11px;
+    color: #000000;
+    text-decoration: none;
+}
+.GridPaginacaoLinkSemBold {
+    font-weight:normal;
+    font-size:11px;
+    text-decoration:none;
+    vertical-align:middle;
+}
+.LinhaTexto {
+    font-size: 11px;
+    color: #000000;
+}
+.LinhaTextoClaro {
+    font-size: 11px;
+    color: #666666;
+}
+.posthidden {
+    display: none
+}
+.postshown {
+    display: inline
+}
+/* CLASSE PARA AS MENSAGENS DE ERRO DO SISTEMA*/
+.MensagemErro{
+    font-size: 12px;
+    font-weight:bold;
+    color: #ff0000;
+    text-align: left;
+}
+/* CSS PARA O POPUP MODAL.*/
+#DivModalPreta 
+{
+    position:absolute;
+    left:0;
+    top:0;
+    z-index:9000;
+    background-color:#000;
+    display:none;
+}
+#DivCaixa .Janela
+{
+    position:absolute;
+    left:0;
+    top:0;
+    width:440px;
+    height:200px;
+    display:none;
+    z-index:9999;
+    padding:20px;
+}
+#DivCaixa #Informacoes 
+{
+    width:375px; 
+    height:203px;
+    padding:10px;
+    background-color:#ffffff;
+    -goog-ms-border-radius: 20px;
+    -khtml-border-radius:20px;
+    -moz-border-radius: 20px;   /* para funcionar no Firefox*/ 
+    -webkit-border-radius: 20px;   /* para funcionar no Chrome ou no Safari */
+    border-radius: 20px;  /* É bom colocar caso haja alguma incompatibilidade no futuro */ 
+    /*behavior: url(border-radius.htc); Compatibilização com o IE 7 e 8 no sistema não funcionou.*/
+}
+.Fechar {
+    display:block; text-align:right;
+}
+
+/* ESPAÇO A ESQUERDA */
+.espacamento {
+    text-indent: 3px;
+}
+
+.hide {
+    display:none;
+}
+

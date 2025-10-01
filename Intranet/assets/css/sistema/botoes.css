@@ -1,0 +1,187 @@
+.botoes {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  /* espaçamento entre os botões */
+}
+
+.botao {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #ff5f57;
+  /* cor base, você pode mudar */
+
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+.circular {
+  padding-left: 1px;
+  color: white;
+  font-size: 8px;
+}
+
+.circular-girando {
+  font-size: 13px;
+}
+
+.botao-girando {
+  width: 26px !important;
+  height: 26px !important;
+
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+
+  animation: girar 2s linear infinite;
+}
+
+@keyframes girar {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.botao:hover {
+  transform: scale(1.3);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+}
+
+
+.fechar {
+  width: 17px;
+  height: 17px;
+  background-color: #ff5f56;
+  cursor: pointer;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  color: white;
+  font-weight: bold;
+  user-select: none;
+  font-family: Arial, sans-serif;
+  padding: 0;
+}
+
+.minimizar {
+  width: 17px;
+  height: 17px;
+  background-color: #ffbd2e;
+  cursor: pointer;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  color: white;
+  font-weight: bold;
+  user-select: none;
+  font-family: Arial, sans-serif;
+  padding: 0;
+}
+
+.maximizar {
+  width: 17px;
+  height: 17px;
+  background-color: #27c93f;
+  cursor: pointer;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  color: white;
+  font-weight: bold;
+  user-select: none;
+  font-family: Arial, sans-serif;
+  padding: 0;
+}
+
+.circulo-atualizar {
+  width: 17px;
+  height: 17px;
+  background-color: #8dbcc7;
+  cursor: pointer;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  color: white !important;
+  font-weight: bold;
+  user-select: none;
+  font-family: Arial, sans-serif;
+  padding: 0;
+}
+
+.x-fechar {
+  font-size: 12px;
+  font-weight: bold;
+  color: #cc0000;
+  /* vermelho escuro */
+  font-family: Arial, sans-serif;
+  line-height: 1;
+}
+
+.x-minimizar {
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+  /* vermelho escuro */
+  font-family: Arial, sans-serif;
+  line-height: 1;
+}
+
+.x-maximizar {
+  font-size: 12px;
+  font-weight: bold;
+  color: green;
+  /* vermelho escuro */
+  font-family: Arial, sans-serif;
+  line-height: 1;
+}
+
+.botao,
+.safari-voltar {
+  width: 18px;
+  height: 18px;
+  border: none;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.safari-voltar:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
+}
+
+.glyphicon-class {
+  display: flex;
+  flex-direction: column;
+  /* empilha verticalmente */
+  align-items: center;
+  /* centraliza horizontalmente */
+  text-align: center;
+}
+
+.buttons button {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgba(255, 255, 255, 0);
+}

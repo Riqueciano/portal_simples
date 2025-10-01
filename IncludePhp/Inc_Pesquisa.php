@@ -1,0 +1,88 @@
+<script language="javascript">
+function Foco(frm)
+{
+    frm.txtFiltro.focus();
+}
+
+function redirect(frm)
+{
+    for(cont=0; cont < frm.elements.length; cont++)
+        frm.elements[cont].style.backgroundColor = '';
+
+    if (frm.txtFiltro.value == "")
+    {
+        alert("Digite filtro para busca.");
+        frm.txtFiltro.focus();
+        frm.txtFiltro.style.backgroundColor='#B9DCFF';
+        return false;
+    }
+
+    frm.action = "<?= $PaginaLocal ?>Inicio.php?cmbStatus="+frm.cmbStatus.value+"&txtFiltro="+frm.txtFiltro.value+"&tipoDePesquisa=nome";
+    frm.submit();
+}
+
+function RedirectStatus(frm)
+{
+    frm.action = "<?= $PaginaLocal ?>Inicio.php?filtro="+frm.cmbStatus.value+"&txtFiltro="+frm.txtFiltro.value;
+    frm.submit();
+}
+
+function redirectLimpar(frm)
+{   frm.action = "<?= $PaginaLocal ?>Inicio.php?cmbStatus=&txtFiltro=";
+    frm.submit();
+}
+
+</script>
+<table cellpadding="0" cellspacing="0" border="0" width="800">
+<tr>
+<td align="center" class="tabPesquisa" >
+<table cellpadding="0" border="0" cellspacing="0" width="100%">
+<tr>
+<td><img src="../../SistemaCadastro/Imagens/vazio.gif" width="1" height="3" border="0"></td>
+</tr>
+<tr>
+<td valign="top" class="LinhaTexto">
+<table cellpadding="0" border="0" cellspacing="0" width="100%">
+<tr>
+<td width="270" class="dataField">&nbsp;<input name="txtFiltro" id="txtFiltro" maxlength="100" type="text" value="<?=$_GET['txtFiltro']?>" style=" width:265px;" onKeyPress="Javascript:if(event.keyCode == 13) Javascript:redirect(document.Form);" ></td>
+<td width="75" valign="middle"><button style="width:70px; height: 18px;" onClick="Javascript:redirect(document.Form);"  class="botao">Pesquisar</button></td>
+<?
+    if($retornoFiltro != ""){
+        print "<td width='75' valign='middle'><button style='width:70px; height: 18px;' onClick='Javascript:redirectLimpar(document.Form); ' class='botao'>Exibir Todos</button></td>";
+    }
+?>
+<td class="dataLinha" align="right">Ver Status							    
+  <select name='cmbStatus' onchange='Javascript:RedirectStatus(document.Form);'>
+<?
+    if ($retornoStatus == ''){
+        $strAtivo   = "";
+        $strInativo = "";
+        $strTodos   = "Selected";
+    }
+    if($retornoStatus == '0'){
+        $strAtivo   = "Selected";
+        $strInativo = "";
+        $strTodos   = "";
+    }
+    if ($retornoStatus == '1'){
+        $strAtivo   = "";
+        $strInativo = "Selected";
+        $strTodos   = "";
+    }
+    print "<option value='' ".$strTodos.">Todos</option>
+          <option value='0' ".$strAtivo.">Ativo</option>
+          <option value='1' ".$strInativo.">Inativo</option>";
+?>
+</select>
+</td>
+</tr>
+</table> 
+</td>
+</tr>
+<tr>
+<td><img src="https://www.portalsema.ba.gov.br/_portal/Imagens/vazio.gif" width="1" height="2" border="0"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>

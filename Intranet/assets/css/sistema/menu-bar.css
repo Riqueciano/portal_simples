@@ -1,0 +1,95 @@
+.menu-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+    z-index: 9000;
+    padding: 0 10px;
+    height: 48px !important;
+    color: white;
+    border-radius: 0;
+}
+
+
+/* Itens do menu */
+.menu-item {
+    position: relative;
+    cursor: pointer;
+    color: white;
+    text-shadow: 0 0 6px rgba(0, 0, 0, 0.7); /* sombra mais forte */
+    padding: 0 10px;
+    white-space: nowrap;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    height: 40px;
+    background-color: transparent;
+    z-index: 9000;
+}
+
+/* Submenu com efeito de vidro */
+.submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: rgba(25, 25, 25, 0.85); /* fundo bem mais legível */
+    backdrop-filter: blur(6px) saturate(140%) contrast(120%);
+    -webkit-backdrop-filter: blur(6px) saturate(140%) contrast(120%);
+    min-width: 200px;
+    z-index: 9000;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+    border-radius: 16px;
+    overflow: hidden;
+    color: white !important;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+/* Hover para mostrar submenu */
+.menu-item:hover .submenu {
+    display: block;
+    z-index: 9000;
+}
+
+/* Itens do submenu */
+.submenu-item {
+    padding: 10px 26px;
+    color: white;
+    font-weight: normal;
+    cursor: pointer;
+    transition: background 0.3s;
+    text-align: left;
+    z-index: 9000;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.6); /* melhora contraste */
+}
+
+/* Hover com vidro mais claro */
+.submenu-item:hover {
+    background: #9FC87E;
+    backdrop-filter: blur(6px) saturate(160%);
+    -webkit-backdrop-filter: blur(6px) saturate(160%);
+    color: white !important;
+    z-index: 9000;
+}
+
+/* Texto */
+.menu-item-text {
+    color: white !important;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
+    z-index: 9000;
+}
+
+/* Badge */
+.submenu-item:hover .badge-menu {
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    color: white !important;
+    border-radius: 8px;
+    padding: 2px 6px;
+    transition: all 0.3s ease;
+    z-index: 9000;
+}

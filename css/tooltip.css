@@ -1,0 +1,58 @@
+
+/*--Tooltip Styles--*/
+.tip {
+	color: #000;
+	background:#CCCCCC;
+	display:none; /*--Hides by default--*/
+	padding:10px;
+	position:absolute;	z-index:1000;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+        opacity: 0.85;
+}
+.container {width: 960px; margin: auto; overflow: hidden;}
+
+
+/*
+COLAR O SCRIPT ABAIXO NA PÁGINA ONDE DESEJA APRESENTAR DESCRIÇÃO DOS CAMPOS POR TEMPO INDETERMIDADO
+
+<style type="text/css">@import url("../css/tooltip.css"); </style>
+<script type="text/javascript" src="../JavaScript/jquery.min2.js"></script> 
+
+<!--SCRIPT PARA APRESENTAR DESCRIÇÃO DOS CAMPOS POR TEMPO INDETERMINADO-->
+<script type="text/javascript">
+$(document).ready(function() {
+	//Tooltips
+	$(".tip_trigger").hover(function(){
+		tip = $(this).find('.tip');
+		tip.show(); //Show tooltip
+	}, function() {
+		tip.hide(); //Hide tooltip		  
+	}).mousemove(function(e) {
+		var mousex = e.pageX + 20; //Get X coodrinates
+		var mousey = e.pageY + 20; //Get Y coordinates
+		var tipWidth = tip.width(); //Find width of tooltip
+		var tipHeight = tip.height(); //Find height of tooltip
+		
+		//Distance of element from the right edge of viewport
+		var tipVisX = $(window).width() - (mousex + tipWidth);
+		//Distance of element from the bottom of viewport
+		var tipVisY = $(window).height() - (mousey + tipHeight);
+		  
+		if ( tipVisX < 20 ) { //If tooltip exceeds the X coordinate of viewport
+			mousex = e.pageX - tipWidth - 20;
+		} if ( tipVisY < 20 ) { //If tooltip exceeds the Y coordinate of viewport
+			mousey = e.pageY - tipHeight - 20;
+		} 
+		tip.css({  top: mousey, left: mousex });
+	});
+});
+</script>
+
+
+A CHAMADA PARA O TOOLTIP DEVE SER DA SEGUINDE FORMA:
+ <a class="tip_trigger">AQUI O TITULO <span class="tip" style="top: 421px; left: 590px; display: none; ">AQUI A DESCRIÇÃO DO TÍTULO</span></a>
+
+
+*/

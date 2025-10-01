@@ -1,0 +1,539 @@
+ /* Oculta por padrão */
+ .pc-only {
+    display: none !important;
+}
+
+/* Mostra apenas em telas com largura maior que 768px (típico de desktop ou tablet grande) */
+@media (min-width: 769px) {
+    .pc-only {
+        display: block !important;
+    }
+}
+
+/* Oculta por padrão */
+.mobile-only {
+    display: none !important;
+}
+
+/* Mostra apenas em telas com largura menor ou igual a 768px (típico de celular) */
+@media (max-width: 768px) {
+    .mobile-only {
+        display: block !important;
+    }
+}
+
+#appIntranet {
+/*background-image: url('https://www.portalsema.ba.gov.br/_portal/template_intranet_verde/assets/bg/bg_incolor.png');*/
+background-image: url('../bg/bg_incolor.png');
+
+background-repeat: repeat;
+background-size: 1200px;
+background-position: top left;
+}
+
+#footer {
+/*background-image: url('https://www.portalsema.ba.gov.br/_portal/template_intranet_verde/assets/bg/bg_incolor.png');*/
+background-image: url('../bg/bg_incolor.png');
+background-repeat: repeat;
+background-size: 1200px;
+background-position: top left;
+}
+
+.div-contato {
+background-size: 2200px;
+background-position: top left;
+}
+
+@media (max-width: 600px) {
+.service-item {
+  flex: 1 1 100%;
+  max-width: 100%;
+}
+}
+
+.service-item {
+position: relative;
+flex: 1 1 250px;
+max-width: 300px;
+aspect-ratio: 1 / 1;
+border-radius: 16px;
+overflow: hidden;
+background-color: rgba(233, 233, 222, 0.6) !important;
+color: #ffffff;
+padding: 20px;
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+box-sizing: border-box;
+transition: transform 0.3s ease;
+width: 100%;
+text-align: center;
+/* Centraliza todos os textos internos */
+
+}
+
+.service-item p,
+.service-item .titulo_icone,
+.service-item h4 {
+text-align: center;
+}
+
+@media (max-width: 600px) {
+.service-item {
+  max-width: 90%;
+  flex: 1 1 100%;
+  margin: 0 auto;
+}
+}
+
+.service-item p {
+position: relative;
+z-index: 1;
+color: #e1dcb0;
+margin: 0;
+max-height: 40%;
+overflow: hidden;
+padding-top: 10px;
+line-height: 1.3em;
+}
+
+
+.service-item .icon {
+display: flex;
+justify-content: center;
+align-items: flex-start;
+/* alinhado ao topo */
+height: 140px;
+/* altura maior para destacar */
+margin-bottom: 10px;
+padding-top: 10px;
+/* leve afastamento do topo */
+}
+
+.service-item .icon i {
+font-size: 60px;
+/* ícone maior */
+}
+
+.service-item .icon img {
+max-width: 100px;
+/* imagem maior */
+height: auto;
+}
+
+.service-item:hover {
+backdrop-filter: blur(6px);
+
+}
+
+.service-item::after {
+content: "";
+position: absolute;
+bottom: 0;
+left: 0;
+width: 100%;
+height: 40%;
+background-color: rgba(60, 70, 50, 0.9);
+pointer-events: none;
+z-index: 0;
+}
+
+.service-item h4,
+.service-item .titulo_icone,
+.service-item .icon {
+position: relative;
+z-index: 1;
+}
+
+.titulo_icone {
+color: white !important;
+font-weight: bold !important;
+margin-top: 5px;
+}
+
+@media (max-width: 768px) {
+.carousel-inner img {
+  max-height: 300px;
+  object-fit: cover;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.text-align {
+  text-align: center;
+}
+}
+
+.cartao-instagram {
+max-width: 540px;
+margin: 10px auto;
+/* só 10px no topo */
+padding: 15px;
+background-color: #DAD7AB;
+border-radius: 20px;
+box-shadow: 0 4px 12px rgba(95, 117, 87, 0.4);
+border: 3px solid #5F7557;
+}
+
+.instagram-media {
+background: #fff;
+border: none;
+border-radius: 15px !important;
+margin: 0 auto !important;
+max-width: 510px;
+padding: 0;
+width: 100%;
+box-shadow: 0 2px 8px rgba(95, 117, 87, 0.15);
+overflow: hidden;
+}
+
+body {
+margin: 0 !important;
+padding: 0 !important;
+}
+
+.navmenu {
+display: none;
+flex-direction: column;
+background-color: #6f8666;
+position: absolute;
+top: 100%;
+right: 0;
+width: 100%;
+z-index: 998;
+}
+
+.navmenu.show {
+display: flex;
+}
+
+.navmenu ul {
+list-style: none;
+padding: 0;
+margin: 0;
+}
+
+.navmenu ul li {
+margin-bottom: 10px;
+}
+
+.navmenu ul li a {
+text-decoration: none;
+color: #333;
+display: block;
+}
+
+/* Dropdown */
+.dropdown-menu {
+list-style: none;
+padding-left: 15px;
+margin-top: 5px;
+}
+
+.dropdown-toggle {
+cursor: pointer;
+user-select: none;
+}
+
+/* Desktop */
+@media (min-width: 1200px) {
+.navmenu {
+  display: flex !important;
+  position: static;
+  width: auto;
+  box-shadow: none;
+  background: none;
+  padding: 0;
+}
+
+.navmenu ul {
+  display: flex;
+  gap: 20px;
+}
+
+.navmenu ul li {
+  margin: 0;
+}
+
+.dropdown-menu {
+  position: absolute;
+  background: white;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  padding: 10px;
+  display: none;
+  top: 100%;
+  left: 0;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-toggle i {
+  display: none;
+  /* Ocultar ícone no desktop */
+}
+
+.d-xl-none {
+  display: none !important;
+}
+}
+
+li a {
+color: white !important;
+}
+
+/* Botão fixo no canto superior direito só aparece no mobile */
+.mobile-menu-btn {
+position: fixed;
+top: 10px;
+right: 10px;
+background: #0d6efd;
+border: none;
+border-radius: 5px;
+padding: 8px 12px;
+z-index: 10001;
+display: flex;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+}
+
+@media(min-width: 992px) {
+.mobile-menu-btn {
+  display: none;
+}
+}
+
+/* Menu lateral mobile */
+.mobile-menu {
+position: fixed;
+top: 0;
+right: -300px;
+width: 280px;
+height: 100vh;
+background: white;
+box-shadow: -3px 0 8px rgba(0, 0, 0, 0.2);
+padding: 1.5rem;
+transition: right 0.3s ease;
+z-index: 10000;
+overflow-y: auto;
+}
+
+.mobile-menu.open {
+right: 0;
+}
+
+/* Botão fechar dentro do menu */
+.close-btn {
+background: transparent;
+border: none;
+font-size: 2rem;
+position: absolute;
+top: 10px;
+right: 15px;
+cursor: pointer;
+}
+
+/* Estilo do menu */
+.mobile-menu ul {
+list-style: none;
+padding-left: 0;
+}
+
+.mobile-menu ul li {
+margin-bottom: 1rem;
+}
+
+.mobile-menu a {
+color: #333;
+text-decoration: none;
+font-size: 1.1rem;
+}
+
+/* Dropdown dentro do menu mobile */
+.dropdown-toggle {
+cursor: pointer;
+user-select: none;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+
+.dropdown-menu {
+padding-left: 1rem;
+margin-top: 0.5rem;
+}
+
+.dropdown-menu li {
+margin-bottom: 0.5rem;
+}
+
+
+
+
+/* Oculta o menu por padrão */
+.botao-menu {
+display: none !important;
+}
+
+/* Exibe somente em telas com largura máxima de 768px (celulares e tablets pequenos) */
+@media (max-width: 768px) {
+.botao-menu {
+  display: block !important;
+}
+}
+
+
+.menu-flutuante {
+position: fixed;
+top: 60px;
+right: 20px;
+background: rgba(94, 116, 87, 0.85);
+/* cor principal com transparência */
+color: #fff;
+border: 1px solid #D9D7AB;
+/* cor secundária */
+padding: 12px;
+z-index: 1000;
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+border-radius: 10px;
+backdrop-filter: blur(4px);
+/* efeito de vidro */
+}
+
+.botao-menu {
+position: fixed;
+top: 10px;
+right: 20px;
+background-color: #5E7457;
+/* cor principal */
+color: #fff;
+border: none;
+padding: 10px 14px;
+border-radius: 8px;
+cursor: pointer;
+z-index: 1001;
+box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+transition: background 0.3s;
+}
+
+.botao-menu:hover {
+background-color: #4d6049;
+/* tom um pouco mais escuro ao passar o mouse */
+}
+
+.menu-flutuante ul,
+.menu-flutuante li {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+.menu-flutuante a {
+color: #D9D7AB;
+/* cor secundária para os links */
+text-decoration: none;
+}
+
+.menu-flutuante a:hover {
+text-decoration: underline;
+}
+
+/* @keyframes circle {
+0%   { transform: translate(0, 0); }
+25%  { transform: translate(3px, -3px); }
+50%  { transform: translate(6px, 0); }
+75%  { transform: translate(3px, 3px); }
+100% { transform: translate(0, 0); }
+}
+
+.service-item:hover .icon {
+animation: circle 1s infinite linear !important;
+} */
+
+/* Bandeirinha */
+.bandeirolas {
+position: fixed;
+top: 70px !important;
+left: 0;
+width: 100vw;
+height: 160px;
+overflow: visible;
+display: flex;
+justify-content: center;
+align-items: flex-start;
+z-index: 222;
+pointer-events: none;
+}
+
+.corda-svg {
+position: absolute;
+top: 0;
+left: 0;
+z-index: 9998;
+color: #8B4513;
+pointer-events: none;
+}
+
+.corda {
+position: absolute;
+top: 50px;
+color: #8B4513;
+/* Alinhado logo abaixo da corda */
+left: 0;
+width: 100%;
+display: flex;
+justify-content: space-around;
+align-items: flex-start;
+animation: balancar 3s infinite ease-in-out;
+z-index: 9999;
+}
+
+.bandeirinha {
+width: 70px;
+height: 90px;
+clip-path: polygon(0 0, 100% 0, 100% 70%, 50% 100%, 0 70%);
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+transform-origin: top center;
+animation: bandeirinha-balanco 2s infinite alternate ease-in-out;
+z-index: 9999;
+}
+
+@keyframes balancar {
+0% {
+  transform: rotate(0deg);
+}
+
+25% {
+  transform: rotate(2deg);
+}
+
+50% {
+  transform: rotate(0deg);
+}
+
+75% {
+  transform: rotate(-2deg);
+}
+
+100% {
+  transform: rotate(0deg);
+}
+}
+
+@keyframes bandeirinha-balanco {
+0% {
+  transform: rotate(0deg);
+}
+
+50% {
+  transform: rotate(5deg);
+}
+
+100% {
+  transform: rotate(-5deg);
+}
+}

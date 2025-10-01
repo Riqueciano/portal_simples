@@ -1,0 +1,330 @@
+body
+{
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:12px;
+    background-image: url(../Imagens/bg_degrade.jpg);
+    background-repeat: repeat-x;
+    /*background-image: url(../Imagens/bg_page.png);
+    background-repeat: repeat-x;
+    background-color: #E9EEF2;*/
+}
+div
+{
+    display: block;
+}
+li
+{
+    line-height: 18px;
+}
+input, textarea, select
+{
+    color:#666;/*COR CINZA*/
+}
+input[type="button"]
+{
+    color: #333;
+    background: white;
+    border: 1px solid #CCC;
+}
+p#ResumoInscricao, p#Titulo1
+{
+    margin: 0px;
+    /*ESPAÇAMENTO ENTRE AS LINHAS DO PARÁGRAFO*/
+    line-height: 18px;
+}
+a:link, a:visited, a:hover, a:active
+{
+    text-decoration: none;
+    color:#666;/*COR CINZA*/
+}
+a#logosemarh
+{
+    background-image: url(../Imagens/logo_semarh.gif);
+    background-repeat: no-repeat;
+    width: 248px;
+    height: 55px;
+}
+p#Listagem
+{
+    line-height: 21px;
+    text-align:justify;
+}
+.Oculto {
+    border: 1px solid #888888;
+    font-size: 10px;
+    height: 18px;
+    color:#666;
+    background-color: #f2f2f2;
+}
+.alt
+{
+    display: none;
+}
+.clear
+{
+    clear: both;
+}
+.dataLabel
+{
+    height:30px;
+    color:#666;
+    font-weight:bold;
+}
+.dataField
+{
+    height:21px;
+    color:#666;
+}
+.titulo1
+{
+    color:#39B1DB;
+    font-size:16px;
+}
+.titulo2
+{
+    color:#39B1DB;
+    font-size:14px;
+}
+
+.texto
+{
+    color:#666;
+    line-height: 18px;
+}
+
+.botao
+{
+    color:#666;
+    font-size:12px;
+}
+.MensagemErro
+{
+    font-size: 12px;
+    font-weight:bold;
+    color: #ff0000;
+    text-align: left;
+}
+.Espaco10
+{
+    height:10px;
+    display:block;
+}
+.Espaco33
+{
+    height:33px;
+    display:block;
+}
+.Espaco42
+{
+    height:42px;
+    display:block;
+}
+.Espaco52
+{
+    height:52px;
+    display:block;
+}
+.Box86px
+{
+    max-width:86px;
+    height:18px;
+    display:block;
+}
+.dataLabel#ResumoInscricao
+{
+    height: 0px;
+    margin: 0px;
+    /*ESPAÇAMENTO ENTRE AS LINHAS DO PARÁGRAFO*/
+    line-height: 18px;
+}
+.dataField#ResumoInscricao
+{
+    height: 0px;
+    margin: 0px;
+    /*ESPAÇAMENTO ENTRE AS LINHAS DO PARÁGRAFO*/
+    line-height: 18px;
+}
+
+#master {
+width: 778px;
+background-image: url(../Imagens/bg_estrutural3.jpg);
+background-position: 0px -20px;
+background-repeat: no-repeat;
+background-color: white;
+margin: 0 auto;
+}
+#rodape
+{
+    position: relative;
+    background-image: url(../Imagens/bg_rodape.jpg);
+    background-repeat: no-repeat;
+    margin-left: 5px;
+    margin-top: 20px;
+    padding-top: 10px;
+    margin-left: 0px;
+    width: 769px;
+    height: 130px;
+    background-color: #dededc;
+}
+#Formulario
+{
+    max-width:770px;
+    background:url(../Imagens/bg_corpo.jpg);
+    background-color:#FFFFFF;
+    padding-top:15px;
+    background-repeat:repeat-x;
+}
+#bannerhomecontainer
+{
+    float: right;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    display: block;
+    width: 485px;
+    height: 100px;
+    background-image: url(../Imagens/bg_bannerprincipalhome.gif);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+#bannerrotativohome
+{
+    padding-top: 19px;
+    padding-left: 8px;
+}
+#cabecalho
+{
+    width: 769px;
+    height: 100px;
+}
+#bannerrotativohome 
+{
+    padding-top: 19px;
+    padding-left: 8px;
+}
+
+#contentlogo
+{
+    margin-left: 8px;
+    margin-top: 22px;
+    display: block;
+    background-image: url(../Imagens/logo_semarh.gif);
+    background-repeat: no-repeat;
+    width: 248px;
+    height: 55px;
+    float: left;
+}
+#logosemarh
+{
+    display: block;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    background-image: url(../Imagens/logo_semarh.gif);
+    background-repeat: no-repeat;
+    width: 248px;
+    height: 55px;
+}
+#organizadorgeral 
+{
+    width: 769px;
+    text-align: left;
+}
+#barraobrigatoriagoverno
+{
+    width: 778px;
+    height: 25px;
+    margin: 0 auto;
+    background-image: url(../Imagens/bg_estrutural2.jpg);
+}
+#rodape img
+{
+    border: 0px;
+}
+#contentlogorodape
+{
+    margin-left: 8px;
+    margin-top: 4px;
+    background-image: url(../Imagens/logo_semarhrodape.gif);
+    background-repeat: no-repeat;
+    width: 114px;
+    height:27px;
+    float: left;
+}
+#logosemarhrodape
+{
+    display: block;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    background-image: url(../Imagens/logo_semarhrodape.gif);
+    background-repeat: no-repeat;
+    width: 114px;
+    height:27px;
+}
+a#logosemarh
+{
+    background-image: url(../imagens/logo_semarh.gif);
+    background-repeat: no-repeat;
+    width: 248px;
+    height: 55px;
+}
+#conteudorodape
+{
+    margin-left: 30px;
+    width: 550px;
+    float: left;
+    color: #666666;
+    font-size: 0.8em;
+    text-align: left;
+}
+#conteudorodape p
+{
+    margin-top: 10px;
+    margin-bottom: 5px
+}
+#navmenurodape
+{
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+    display: block;
+    float: left;
+    text-align: left;
+}
+#navmenurodape ul
+{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;;
+}
+#navmenurodape li
+{
+    list-style: none;
+    display: inline;
+    font-size: 0.9em;
+    color: #969696;
+}
+#navmenurodape li a
+{
+    border-right:0.1em solid #bfdadd;
+    width: auto;
+    color: #969696;
+    text-align: left;
+    padding: 0px 5px 0px 3px;
+    text-decoration: none;
+}
+#navmenurodape li a:hover {
+    border-right:0.1em solid #bfdadd;
+    width: auto;
+    color: #969696;
+    text-align: left;
+    padding: 0px 5px 0px 3px;
+    text-decoration: none;
+}
+#navmenurodape li#navrodapelastchild a
+{
+    border:0px;
+}

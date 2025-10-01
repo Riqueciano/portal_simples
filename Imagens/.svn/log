@@ -1,0 +1,4230 @@
+<modify-entry
+   name="logo - Cópia.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/logo - Cópia.jpg.svn-base"
+   name=".svn/prop-base/tempfile.tmp"/>
+<readonly
+   name=".svn/prop-base/logo - Cópia.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="logo - Cópia.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="logo - Cópia.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/logo%20-%20C%C3%B3pia.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="logo - Cópia.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="logo - Cópia.jpg"
+   name=".svn/tmp/text-base/logo - Cópia.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/logo - Cópia.jpg.svn-base"
+   name=".svn/tmp/text-base/logo - Cópia.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/logo - Cópia.jpg.svn-base"/>
+<modify-entry
+   name="logo - Cópia.jpg"
+   checksum="b394922a99940d25a6ab12f423fee5f1"/>
+<modify-entry
+   name="logo - Cópia.jpg"
+   text-time="working"/>
+<modify-entry
+   name="logo - Cópia.jpg"
+   working-size="working"/>
+<modify-entry
+   name="pontilhado.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/pontilhado.jpg.svn-base"
+   name=".svn/prop-base/tempfile.2.tmp"/>
+<readonly
+   name=".svn/prop-base/pontilhado.jpg.svn-base"/>
+<modify-entry
+   committed-rev="58"
+   committed-date="2012-02-09T13:26:52.741504Z"
+   name="pontilhado.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="pontilhado.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/58/tags/pontilhado.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="pontilhado.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="pontilhado.jpg"
+   name=".svn/tmp/text-base/pontilhado.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/pontilhado.jpg.svn-base"
+   name=".svn/tmp/text-base/pontilhado.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/pontilhado.jpg.svn-base"/>
+<modify-entry
+   name="pontilhado.jpg"
+   checksum="9c7889906e379fca2625ef2007becd66"/>
+<modify-entry
+   name="pontilhado.jpg"
+   text-time="working"/>
+<modify-entry
+   name="pontilhado.jpg"
+   working-size="working"/>
+<modify-entry
+   name="btn_programacao.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/btn_programacao.png.svn-base"
+   name=".svn/prop-base/tempfile.3.tmp"/>
+<readonly
+   name=".svn/prop-base/btn_programacao.png.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="btn_programacao.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="btn_programacao.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/btn_programacao.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="btn_programacao.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="btn_programacao.png"
+   name=".svn/tmp/text-base/btn_programacao.png.svn-base"/>
+<mv
+   dest=".svn/text-base/btn_programacao.png.svn-base"
+   name=".svn/tmp/text-base/btn_programacao.png.svn-base"/>
+<readonly
+   name=".svn/text-base/btn_programacao.png.svn-base"/>
+<modify-entry
+   name="btn_programacao.png"
+   checksum="0050bb81c61f0c0a86714260c84114ea"/>
+<modify-entry
+   name="btn_programacao.png"
+   text-time="working"/>
+<modify-entry
+   name="btn_programacao.png"
+   working-size="working"/>
+<modify-entry
+   name="separa_aba.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/separa_aba.gif.svn-base"
+   name=".svn/prop-base/tempfile.4.tmp"/>
+<readonly
+   name=".svn/prop-base/separa_aba.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="separa_aba.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="separa_aba.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/separa_aba.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="separa_aba.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="separa_aba.gif"
+   name=".svn/tmp/text-base/separa_aba.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/separa_aba.gif.svn-base"
+   name=".svn/tmp/text-base/separa_aba.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/separa_aba.gif.svn-base"/>
+<modify-entry
+   name="separa_aba.gif"
+   checksum="a04ea9c3fb3217463b5cc728b819184f"/>
+<modify-entry
+   name="separa_aba.gif"
+   text-time="working"/>
+<modify-entry
+   name="separa_aba.gif"
+   working-size="working"/>
+<modify-entry
+   name="tab_meio.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/tab_meio.gif.svn-base"
+   name=".svn/prop-base/tempfile.5.tmp"/>
+<readonly
+   name=".svn/prop-base/tab_meio.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="tab_meio.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="tab_meio.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/tab_meio.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="tab_meio.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="tab_meio.gif"
+   name=".svn/tmp/text-base/tab_meio.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/tab_meio.gif.svn-base"
+   name=".svn/tmp/text-base/tab_meio.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/tab_meio.gif.svn-base"/>
+<modify-entry
+   name="tab_meio.gif"
+   checksum="884fb2335904709c59ba932c1563bc9b"/>
+<modify-entry
+   name="tab_meio.gif"
+   text-time="working"/>
+<modify-entry
+   name="tab_meio.gif"
+   working-size="working"/>
+<modify-entry
+   name="diarias.pagas.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/diarias.pagas.png.svn-base"
+   name=".svn/prop-base/tempfile.6.tmp"/>
+<readonly
+   name=".svn/prop-base/diarias.pagas.png.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="diarias.pagas.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="diarias.pagas.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/diarias.pagas.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="diarias.pagas.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="diarias.pagas.png"
+   name=".svn/tmp/text-base/diarias.pagas.png.svn-base"/>
+<mv
+   dest=".svn/text-base/diarias.pagas.png.svn-base"
+   name=".svn/tmp/text-base/diarias.pagas.png.svn-base"/>
+<readonly
+   name=".svn/text-base/diarias.pagas.png.svn-base"/>
+<modify-entry
+   name="diarias.pagas.png"
+   checksum="2503d346fe580271603f19b0fb7ba072"/>
+<modify-entry
+   name="diarias.pagas.png"
+   text-time="working"/>
+<modify-entry
+   name="diarias.pagas.png"
+   working-size="working"/>
+<modify-entry
+   name="tab_esq_home.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/tab_esq_home.gif.svn-base"
+   name=".svn/prop-base/tempfile.7.tmp"/>
+<readonly
+   name=".svn/prop-base/tab_esq_home.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="tab_esq_home.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="tab_esq_home.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/tab_esq_home.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="tab_esq_home.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="tab_esq_home.gif"
+   name=".svn/tmp/text-base/tab_esq_home.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/tab_esq_home.gif.svn-base"
+   name=".svn/tmp/text-base/tab_esq_home.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/tab_esq_home.gif.svn-base"/>
+<modify-entry
+   name="tab_esq_home.gif"
+   checksum="c6ecbd5f6ccb8b4708df5a182cfdc8ba"/>
+<modify-entry
+   name="tab_esq_home.gif"
+   text-time="working"/>
+<modify-entry
+   name="tab_esq_home.gif"
+   working-size="working"/>
+<modify-entry
+   name="blank.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/blank.gif.svn-base"
+   name=".svn/prop-base/tempfile.8.tmp"/>
+<readonly
+   name=".svn/prop-base/blank.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="blank.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="blank.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/blank.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="blank.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="blank.gif"
+   name=".svn/tmp/text-base/blank.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/blank.gif.svn-base"
+   name=".svn/tmp/text-base/blank.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/blank.gif.svn-base"/>
+<modify-entry
+   name="blank.gif"
+   checksum="a4966e3c1773a62aceb19679dca15fbc"/>
+<modify-entry
+   name="blank.gif"
+   text-time="working"/>
+<modify-entry
+   name="blank.gif"
+   working-size="working"/>
+<modify-entry
+   name="bg.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/bg.gif.svn-base"
+   name=".svn/prop-base/tempfile.9.tmp"/>
+<readonly
+   name=".svn/prop-base/bg.gif.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="bg.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="bg.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/bg.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="bg.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="bg.gif"
+   name=".svn/tmp/text-base/bg.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/bg.gif.svn-base"
+   name=".svn/tmp/text-base/bg.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/bg.gif.svn-base"/>
+<modify-entry
+   name="bg.gif"
+   checksum="009f0285f5b75ad665e6d589d20881ba"/>
+<modify-entry
+   name="bg.gif"
+   text-time="working"/>
+<modify-entry
+   name="bg.gif"
+   working-size="working"/>
+<modify-entry
+   name="sombra_dir.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/sombra_dir.jpg.svn-base"
+   name=".svn/prop-base/tempfile.10.tmp"/>
+<readonly
+   name=".svn/prop-base/sombra_dir.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="sombra_dir.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="sombra_dir.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/sombra_dir.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="sombra_dir.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="sombra_dir.jpg"
+   name=".svn/tmp/text-base/sombra_dir.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/sombra_dir.jpg.svn-base"
+   name=".svn/tmp/text-base/sombra_dir.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/sombra_dir.jpg.svn-base"/>
+<modify-entry
+   name="sombra_dir.jpg"
+   checksum="0af908fa2c6df8e4412690f0845d8acc"/>
+<modify-entry
+   name="sombra_dir.jpg"
+   text-time="working"/>
+<modify-entry
+   name="sombra_dir.jpg"
+   working-size="working"/>
+<modify-entry
+   name="diarias_pagas_off.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/diarias_pagas_off.png.svn-base"
+   name=".svn/prop-base/tempfile.11.tmp"/>
+<readonly
+   name=".svn/prop-base/diarias_pagas_off.png.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="diarias_pagas_off.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="diarias_pagas_off.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/diarias_pagas_off.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="diarias_pagas_off.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="diarias_pagas_off.png"
+   name=".svn/tmp/text-base/diarias_pagas_off.png.svn-base"/>
+<mv
+   dest=".svn/text-base/diarias_pagas_off.png.svn-base"
+   name=".svn/tmp/text-base/diarias_pagas_off.png.svn-base"/>
+<readonly
+   name=".svn/text-base/diarias_pagas_off.png.svn-base"/>
+<modify-entry
+   name="diarias_pagas_off.png"
+   checksum="2c441b4cc186481445c499ac8e0e9e66"/>
+<modify-entry
+   name="diarias_pagas_off.png"
+   text-time="working"/>
+<modify-entry
+   name="diarias_pagas_off.png"
+   working-size="working"/>
+<modify-entry
+   name="gov_bg.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/gov_bg.gif.svn-base"
+   name=".svn/prop-base/tempfile.12.tmp"/>
+<readonly
+   name=".svn/prop-base/gov_bg.gif.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="gov_bg.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="gov_bg.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/gov_bg.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="gov_bg.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="gov_bg.gif"
+   name=".svn/tmp/text-base/gov_bg.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/gov_bg.gif.svn-base"
+   name=".svn/tmp/text-base/gov_bg.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/gov_bg.gif.svn-base"/>
+<modify-entry
+   name="gov_bg.gif"
+   checksum="7a57d29309d35631393931bb1abc1ca5"/>
+<modify-entry
+   name="gov_bg.gif"
+   text-time="working"/>
+<modify-entry
+   name="gov_bg.gif"
+   working-size="working"/>
+<modify-entry
+   name="img_processo.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/img_processo.jpg.svn-base"
+   name=".svn/prop-base/tempfile.13.tmp"/>
+<readonly
+   name=".svn/prop-base/img_processo.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="img_processo.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="img_processo.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/img_processo.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="img_processo.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="img_processo.jpg"
+   name=".svn/tmp/text-base/img_processo.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/img_processo.jpg.svn-base"
+   name=".svn/tmp/text-base/img_processo.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/img_processo.jpg.svn-base"/>
+<modify-entry
+   name="img_processo.jpg"
+   checksum="9ef198f5acca85cc90be8d821e10ad76"/>
+<modify-entry
+   name="img_processo.jpg"
+   text-time="working"/>
+<modify-entry
+   name="img_processo.jpg"
+   working-size="working"/>
+<modify-entry
+   name="banner_back_sema.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/banner_back_sema.jpg.svn-base"
+   name=".svn/prop-base/tempfile.14.tmp"/>
+<readonly
+   name=".svn/prop-base/banner_back_sema.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="banner_back_sema.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="banner_back_sema.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/banner_back_sema.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="banner_back_sema.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="banner_back_sema.jpg"
+   name=".svn/tmp/text-base/banner_back_sema.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/banner_back_sema.jpg.svn-base"
+   name=".svn/tmp/text-base/banner_back_sema.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/banner_back_sema.jpg.svn-base"/>
+<modify-entry
+   name="banner_back_sema.jpg"
+   checksum="33435f73646a36136e492d9afc69930c"/>
+<modify-entry
+   name="banner_back_sema.jpg"
+   text-time="working"/>
+<modify-entry
+   name="banner_back_sema.jpg"
+   working-size="working"/>
+<modify-entry
+   name="autor.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/autor.jpg.svn-base"
+   name=".svn/prop-base/tempfile.15.tmp"/>
+<readonly
+   name=".svn/prop-base/autor.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="autor.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="autor.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/autor.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="autor.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="autor.jpg"
+   name=".svn/tmp/text-base/autor.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/autor.jpg.svn-base"
+   name=".svn/tmp/text-base/autor.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/autor.jpg.svn-base"/>
+<modify-entry
+   name="autor.jpg"
+   checksum="4e487375e31d0af95a6b0f5cc749362a"/>
+<modify-entry
+   name="autor.jpg"
+   text-time="working"/>
+<modify-entry
+   name="autor.jpg"
+   working-size="working"/>
+<modify-entry
+   name="sombra_lateral_esq.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/sombra_lateral_esq.jpg.svn-base"
+   name=".svn/prop-base/tempfile.16.tmp"/>
+<readonly
+   name=".svn/prop-base/sombra_lateral_esq.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="sombra_lateral_esq.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="sombra_lateral_esq.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/sombra_lateral_esq.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="sombra_lateral_esq.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="sombra_lateral_esq.jpg"
+   name=".svn/tmp/text-base/sombra_lateral_esq.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/sombra_lateral_esq.jpg.svn-base"
+   name=".svn/tmp/text-base/sombra_lateral_esq.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/sombra_lateral_esq.jpg.svn-base"/>
+<modify-entry
+   name="sombra_lateral_esq.jpg"
+   checksum="6ad8115fc8c9f00ab5b5c01f8c046a1a"/>
+<modify-entry
+   name="sombra_lateral_esq.jpg"
+   text-time="working"/>
+<modify-entry
+   name="sombra_lateral_esq.jpg"
+   working-size="working"/>
+<modify-entry
+   name="bg_menu.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/bg_menu.gif.svn-base"
+   name=".svn/prop-base/tempfile.17.tmp"/>
+<readonly
+   name=".svn/prop-base/bg_menu.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="bg_menu.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="bg_menu.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/bg_menu.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="bg_menu.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="bg_menu.gif"
+   name=".svn/tmp/text-base/bg_menu.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/bg_menu.gif.svn-base"
+   name=".svn/tmp/text-base/bg_menu.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/bg_menu.gif.svn-base"/>
+<modify-entry
+   name="bg_menu.gif"
+   checksum="e9775527f4e6b4524cc4725340fb8836"/>
+<modify-entry
+   name="bg_menu.gif"
+   text-time="working"/>
+<modify-entry
+   name="bg_menu.gif"
+   working-size="working"/>
+<modify-entry
+   name="aba_dir_on.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/aba_dir_on.gif.svn-base"
+   name=".svn/prop-base/tempfile.18.tmp"/>
+<readonly
+   name=".svn/prop-base/aba_dir_on.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="aba_dir_on.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="aba_dir_on.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/aba_dir_on.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="aba_dir_on.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="aba_dir_on.gif"
+   name=".svn/tmp/text-base/aba_dir_on.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/aba_dir_on.gif.svn-base"
+   name=".svn/tmp/text-base/aba_dir_on.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/aba_dir_on.gif.svn-base"/>
+<modify-entry
+   name="aba_dir_on.gif"
+   checksum="0ddd4792fac3a9740d0e10b16c93ca78"/>
+<modify-entry
+   name="aba_dir_on.gif"
+   text-time="working"/>
+<modify-entry
+   name="aba_dir_on.gif"
+   working-size="working"/>
+<modify-entry
+   name="ppt_button.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ppt_button.png.svn-base"
+   name=".svn/prop-base/tempfile.19.tmp"/>
+<readonly
+   name=".svn/prop-base/ppt_button.png.svn-base"/>
+<modify-entry
+   committed-rev="58"
+   committed-date="2012-02-09T13:26:52.741504Z"
+   name="ppt_button.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="ppt_button.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/58/tags/ppt_button.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ppt_button.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="ppt_button.png"
+   name=".svn/tmp/text-base/ppt_button.png.svn-base"/>
+<mv
+   dest=".svn/text-base/ppt_button.png.svn-base"
+   name=".svn/tmp/text-base/ppt_button.png.svn-base"/>
+<readonly
+   name=".svn/text-base/ppt_button.png.svn-base"/>
+<modify-entry
+   name="ppt_button.png"
+   checksum="2856dcbcf80dfda6d712f87f6e0844ed"/>
+<modify-entry
+   name="ppt_button.png"
+   text-time="working"/>
+<modify-entry
+   name="ppt_button.png"
+   working-size="working"/>
+<modify-entry
+   name="codigo.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/codigo.jpg.svn-base"
+   name=".svn/prop-base/tempfile.20.tmp"/>
+<readonly
+   name=".svn/prop-base/codigo.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="codigo.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="codigo.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/codigo.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="codigo.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="codigo.jpg"
+   name=".svn/tmp/text-base/codigo.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/codigo.jpg.svn-base"
+   name=".svn/tmp/text-base/codigo.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/codigo.jpg.svn-base"/>
+<modify-entry
+   name="codigo.jpg"
+   checksum="2637d73fd5722a3b885af46e631529ac"/>
+<modify-entry
+   name="codigo.jpg"
+   text-time="working"/>
+<modify-entry
+   name="codigo.jpg"
+   working-size="working"/>
+<modify-entry
+   name="btn_biblioteca.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/btn_biblioteca.png.svn-base"
+   name=".svn/prop-base/tempfile.21.tmp"/>
+<readonly
+   name=".svn/prop-base/btn_biblioteca.png.svn-base"/>
+<modify-entry
+   committed-rev="63"
+   committed-date="2012-03-29T18:09:10.345056Z"
+   name="btn_biblioteca.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="btn_biblioteca.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/63/tags/btn_biblioteca.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="btn_biblioteca.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="btn_biblioteca.png"
+   name=".svn/tmp/text-base/btn_biblioteca.png.svn-base"/>
+<mv
+   dest=".svn/text-base/btn_biblioteca.png.svn-base"
+   name=".svn/tmp/text-base/btn_biblioteca.png.svn-base"/>
+<readonly
+   name=".svn/text-base/btn_biblioteca.png.svn-base"/>
+<modify-entry
+   name="btn_biblioteca.png"
+   checksum="61d158e700f3e14d0fa5d4c08edd2ce8"/>
+<modify-entry
+   name="btn_biblioteca.png"
+   text-time="working"/>
+<modify-entry
+   name="btn_biblioteca.png"
+   working-size="working"/>
+<modify-entry
+   name="menu_seta.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/menu_seta.gif.svn-base"
+   name=".svn/prop-base/tempfile.22.tmp"/>
+<readonly
+   name=".svn/prop-base/menu_seta.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="menu_seta.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="menu_seta.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/menu_seta.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="menu_seta.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="menu_seta.gif"
+   name=".svn/tmp/text-base/menu_seta.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/menu_seta.gif.svn-base"
+   name=".svn/tmp/text-base/menu_seta.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/menu_seta.gif.svn-base"/>
+<modify-entry
+   name="menu_seta.gif"
+   checksum="c8f3d93fccf688630ef23d2171b710cf"/>
+<modify-entry
+   name="menu_seta.gif"
+   text-time="working"/>
+<modify-entry
+   name="menu_seta.gif"
+   working-size="working"/>
+<modify-entry
+   name="PreloaderAjax.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/PreloaderAjax.gif.svn-base"
+   name=".svn/prop-base/tempfile.23.tmp"/>
+<readonly
+   name=".svn/prop-base/PreloaderAjax.gif.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="PreloaderAjax.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="PreloaderAjax.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/PreloaderAjax.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="PreloaderAjax.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="PreloaderAjax.gif"
+   name=".svn/tmp/text-base/PreloaderAjax.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/PreloaderAjax.gif.svn-base"
+   name=".svn/tmp/text-base/PreloaderAjax.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/PreloaderAjax.gif.svn-base"/>
+<modify-entry
+   name="PreloaderAjax.gif"
+   checksum="03ce3dcc84af110e9da8699a841e5200"/>
+<modify-entry
+   name="PreloaderAjax.gif"
+   text-time="working"/>
+<modify-entry
+   name="PreloaderAjax.gif"
+   working-size="working"/>
+<modify-entry
+   name="p2.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/p2.gif.svn-base"
+   name=".svn/prop-base/tempfile.24.tmp"/>
+<readonly
+   name=".svn/prop-base/p2.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="p2.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="p2.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/p2.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="p2.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="p2.gif"
+   name=".svn/tmp/text-base/p2.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/p2.gif.svn-base"
+   name=".svn/tmp/text-base/p2.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/p2.gif.svn-base"/>
+<modify-entry
+   name="p2.gif"
+   checksum="a431e4dfd197444c4b9481f41f98ed49"/>
+<modify-entry
+   name="p2.gif"
+   text-time="working"/>
+<modify-entry
+   name="p2.gif"
+   working-size="working"/>
+<modify-entry
+   name="exercicio.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/exercicio.jpg.svn-base"
+   name=".svn/prop-base/tempfile.25.tmp"/>
+<readonly
+   name=".svn/prop-base/exercicio.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="exercicio.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="exercicio.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/exercicio.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="exercicio.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="exercicio.jpg"
+   name=".svn/tmp/text-base/exercicio.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/exercicio.jpg.svn-base"
+   name=".svn/tmp/text-base/exercicio.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/exercicio.jpg.svn-base"/>
+<modify-entry
+   name="exercicio.jpg"
+   checksum="c9fe06a6095cabbcd9d21fe3bfc002f4"/>
+<modify-entry
+   name="exercicio.jpg"
+   text-time="working"/>
+<modify-entry
+   name="exercicio.jpg"
+   working-size="working"/>
+<modify-entry
+   name="vazio.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/vazio.gif.svn-base"
+   name=".svn/prop-base/tempfile.26.tmp"/>
+<readonly
+   name=".svn/prop-base/vazio.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="vazio.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="vazio.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/vazio.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="vazio.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="vazio.gif"
+   name=".svn/tmp/text-base/vazio.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/vazio.gif.svn-base"
+   name=".svn/tmp/text-base/vazio.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/vazio.gif.svn-base"/>
+<modify-entry
+   name="vazio.gif"
+   checksum="ed280a0ea3cc38f3cbbc747acfbef47d"/>
+<modify-entry
+   name="vazio.gif"
+   text-time="working"/>
+<modify-entry
+   name="vazio.gif"
+   working-size="working"/>
+<modify-entry
+   name="bg_cinza.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/bg_cinza.png.svn-base"
+   name=".svn/prop-base/tempfile.27.tmp"/>
+<readonly
+   name=".svn/prop-base/bg_cinza.png.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="bg_cinza.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="bg_cinza.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/bg_cinza.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="bg_cinza.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="bg_cinza.png"
+   name=".svn/tmp/text-base/bg_cinza.png.svn-base"/>
+<mv
+   dest=".svn/text-base/bg_cinza.png.svn-base"
+   name=".svn/tmp/text-base/bg_cinza.png.svn-base"/>
+<readonly
+   name=".svn/text-base/bg_cinza.png.svn-base"/>
+<modify-entry
+   name="bg_cinza.png"
+   checksum="b8b0cb9cedf3de8c7f0a5a12db43a4cb"/>
+<modify-entry
+   name="bg_cinza.png"
+   text-time="working"/>
+<modify-entry
+   name="bg_cinza.png"
+   working-size="working"/>
+<modify-entry
+   name="logo_menor_old.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/logo_menor_old.gif.svn-base"
+   name=".svn/prop-base/tempfile.28.tmp"/>
+<readonly
+   name=".svn/prop-base/logo_menor_old.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="logo_menor_old.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="logo_menor_old.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/logo_menor_old.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="logo_menor_old.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="logo_menor_old.gif"
+   name=".svn/tmp/text-base/logo_menor_old.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/logo_menor_old.gif.svn-base"
+   name=".svn/tmp/text-base/logo_menor_old.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/logo_menor_old.gif.svn-base"/>
+<modify-entry
+   name="logo_menor_old.gif"
+   checksum="7d8ae7810d47a6eb77793c4c5a332ec3"/>
+<modify-entry
+   name="logo_menor_old.gif"
+   text-time="working"/>
+<modify-entry
+   name="logo_menor_old.gif"
+   working-size="working"/>
+<modify-entry
+   name="esconde_filtro.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/esconde_filtro.gif.svn-base"
+   name=".svn/prop-base/tempfile.29.tmp"/>
+<readonly
+   name=".svn/prop-base/esconde_filtro.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="esconde_filtro.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="esconde_filtro.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/esconde_filtro.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="esconde_filtro.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="esconde_filtro.gif"
+   name=".svn/tmp/text-base/esconde_filtro.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/esconde_filtro.gif.svn-base"
+   name=".svn/tmp/text-base/esconde_filtro.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/esconde_filtro.gif.svn-base"/>
+<modify-entry
+   name="esconde_filtro.gif"
+   checksum="f0323b077c2e2650786c6bb187bc818c"/>
+<modify-entry
+   name="esconde_filtro.gif"
+   text-time="working"/>
+<modify-entry
+   name="esconde_filtro.gif"
+   working-size="working"/>
+<modify-entry
+   name="logo_menor.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/logo_menor.gif.svn-base"
+   name=".svn/prop-base/tempfile.30.tmp"/>
+<readonly
+   name=".svn/prop-base/logo_menor.gif.svn-base"/>
+<modify-entry
+   committed-rev="58"
+   committed-date="2012-02-09T13:26:52.741504Z"
+   name="logo_menor.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="logo_menor.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/58/tags/logo_menor.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="logo_menor.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="logo_menor.gif"
+   name=".svn/tmp/text-base/logo_menor.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/logo_menor.gif.svn-base"
+   name=".svn/tmp/text-base/logo_menor.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/logo_menor.gif.svn-base"/>
+<modify-entry
+   name="logo_menor.gif"
+   checksum="e48ffb726a954a89401135345f94eb9d"/>
+<modify-entry
+   name="logo_menor.gif"
+   text-time="working"/>
+<modify-entry
+   name="logo_menor.gif"
+   working-size="working"/>
+<modify-entry
+   name="diarias_pagas_on.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/diarias_pagas_on.png.svn-base"
+   name=".svn/prop-base/tempfile.31.tmp"/>
+<readonly
+   name=".svn/prop-base/diarias_pagas_on.png.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="diarias_pagas_on.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="diarias_pagas_on.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/diarias_pagas_on.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="diarias_pagas_on.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="diarias_pagas_on.png"
+   name=".svn/tmp/text-base/diarias_pagas_on.png.svn-base"/>
+<mv
+   dest=".svn/text-base/diarias_pagas_on.png.svn-base"
+   name=".svn/tmp/text-base/diarias_pagas_on.png.svn-base"/>
+<readonly
+   name=".svn/text-base/diarias_pagas_on.png.svn-base"/>
+<modify-entry
+   name="diarias_pagas_on.png"
+   checksum="07e09fafbea88f73a9154818513dd210"/>
+<modify-entry
+   name="diarias_pagas_on.png"
+   text-time="working"/>
+<modify-entry
+   name="diarias_pagas_on.png"
+   working-size="working"/>
+<modify-entry
+   name="B2.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/B2.gif.svn-base"
+   name=".svn/prop-base/tempfile.32.tmp"/>
+<readonly
+   name=".svn/prop-base/B2.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="B2.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="B2.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/B2.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="B2.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="B2.gif"
+   name=".svn/tmp/text-base/B2.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/B2.gif.svn-base"
+   name=".svn/tmp/text-base/B2.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/B2.gif.svn-base"/>
+<modify-entry
+   name="B2.gif"
+   checksum="a3de361fbee09bed3937522d121f1e59"/>
+<modify-entry
+   name="B2.gif"
+   text-time="working"/>
+<modify-entry
+   name="B2.gif"
+   working-size="working"/>
+<modify-entry
+   name="tab_dir.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/tab_dir.gif.svn-base"
+   name=".svn/prop-base/tempfile.33.tmp"/>
+<readonly
+   name=".svn/prop-base/tab_dir.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="tab_dir.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="tab_dir.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/tab_dir.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="tab_dir.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="tab_dir.gif"
+   name=".svn/tmp/text-base/tab_dir.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/tab_dir.gif.svn-base"
+   name=".svn/tmp/text-base/tab_dir.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/tab_dir.gif.svn-base"/>
+<modify-entry
+   name="tab_dir.gif"
+   checksum="02b53dcca1551f8234d856786f7f0d53"/>
+<modify-entry
+   name="tab_dir.gif"
+   text-time="working"/>
+<modify-entry
+   name="tab_dir.gif"
+   working-size="working"/>
+<modify-entry
+   name="carregando.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/carregando.gif.svn-base"
+   name=".svn/prop-base/tempfile.34.tmp"/>
+<readonly
+   name=".svn/prop-base/carregando.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="carregando.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="carregando.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/carregando.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="carregando.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="carregando.gif"
+   name=".svn/tmp/text-base/carregando.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/carregando.gif.svn-base"
+   name=".svn/tmp/text-base/carregando.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/carregando.gif.svn-base"/>
+<modify-entry
+   name="carregando.gif"
+   checksum="03ce3dcc84af110e9da8699a841e5200"/>
+<modify-entry
+   name="carregando.gif"
+   text-time="working"/>
+<modify-entry
+   name="carregando.gif"
+   working-size="working"/>
+<modify-entry
+   name="campo_maior_questionario.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/campo_maior_questionario.png.svn-base"
+   name=".svn/prop-base/tempfile.35.tmp"/>
+<readonly
+   name=".svn/prop-base/campo_maior_questionario.png.svn-base"/>
+<modify-entry
+   committed-rev="58"
+   committed-date="2012-02-09T13:26:52.741504Z"
+   name="campo_maior_questionario.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="campo_maior_questionario.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/58/tags/campo_maior_questionario.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="campo_maior_questionario.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="campo_maior_questionario.png"
+   name=".svn/tmp/text-base/campo_maior_questionario.png.svn-base"/>
+<mv
+   dest=".svn/text-base/campo_maior_questionario.png.svn-base"
+   name=".svn/tmp/text-base/campo_maior_questionario.png.svn-base"/>
+<readonly
+   name=".svn/text-base/campo_maior_questionario.png.svn-base"/>
+<modify-entry
+   name="campo_maior_questionario.png"
+   checksum="41a3949f00b7ea91d8a137de0fe67f38"/>
+<modify-entry
+   name="campo_maior_questionario.png"
+   text-time="working"/>
+<modify-entry
+   name="campo_maior_questionario.png"
+   working-size="working"/>
+<modify-entry
+   name="ok.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/ok.gif.svn-base"
+   name=".svn/prop-base/tempfile.36.tmp"/>
+<readonly
+   name=".svn/prop-base/ok.gif.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="ok.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="ok.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/ok.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="ok.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="ok.gif"
+   name=".svn/tmp/text-base/ok.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/ok.gif.svn-base"
+   name=".svn/tmp/text-base/ok.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/ok.gif.svn-base"/>
+<modify-entry
+   name="ok.gif"
+   checksum="f203cb1641523a5fd015b76ed3d3d047"/>
+<modify-entry
+   name="ok.gif"
+   text-time="working"/>
+<modify-entry
+   name="ok.gif"
+   working-size="working"/>
+<modify-entry
+   name="unidade_orcamentaria.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/unidade_orcamentaria.jpg.svn-base"
+   name=".svn/prop-base/tempfile.37.tmp"/>
+<readonly
+   name=".svn/prop-base/unidade_orcamentaria.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="unidade_orcamentaria.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="unidade_orcamentaria.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/unidade_orcamentaria.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="unidade_orcamentaria.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="unidade_orcamentaria.jpg"
+   name=".svn/tmp/text-base/unidade_orcamentaria.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/unidade_orcamentaria.jpg.svn-base"
+   name=".svn/tmp/text-base/unidade_orcamentaria.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/unidade_orcamentaria.jpg.svn-base"/>
+<modify-entry
+   name="unidade_orcamentaria.jpg"
+   checksum="ab7d37ddfae39881e2b1152e100806bd"/>
+<modify-entry
+   name="unidade_orcamentaria.jpg"
+   text-time="working"/>
+<modify-entry
+   name="unidade_orcamentaria.jpg"
+   working-size="working"/>
+<modify-entry
+   name="tab_esq_on.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/tab_esq_on.gif.svn-base"
+   name=".svn/prop-base/tempfile.38.tmp"/>
+<readonly
+   name=".svn/prop-base/tab_esq_on.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="tab_esq_on.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="tab_esq_on.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/tab_esq_on.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="tab_esq_on.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="tab_esq_on.gif"
+   name=".svn/tmp/text-base/tab_esq_on.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/tab_esq_on.gif.svn-base"
+   name=".svn/tmp/text-base/tab_esq_on.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/tab_esq_on.gif.svn-base"/>
+<modify-entry
+   name="tab_esq_on.gif"
+   checksum="b65e1d81d29fe909c4cabe91d17841b4"/>
+<modify-entry
+   name="tab_esq_on.gif"
+   text-time="working"/>
+<modify-entry
+   name="tab_esq_on.gif"
+   working-size="working"/>
+<modify-entry
+   name="aba_dir_off.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/aba_dir_off.gif.svn-base"
+   name=".svn/prop-base/tempfile.39.tmp"/>
+<readonly
+   name=".svn/prop-base/aba_dir_off.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="aba_dir_off.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="aba_dir_off.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/aba_dir_off.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="aba_dir_off.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="aba_dir_off.gif"
+   name=".svn/tmp/text-base/aba_dir_off.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/aba_dir_off.gif.svn-base"
+   name=".svn/tmp/text-base/aba_dir_off.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/aba_dir_off.gif.svn-base"/>
+<modify-entry
+   name="aba_dir_off.gif"
+   checksum="2e1cb084d80cab32a349301b0f83420c"/>
+<modify-entry
+   name="aba_dir_off.gif"
+   text-time="working"/>
+<modify-entry
+   name="aba_dir_off.gif"
+   working-size="working"/>
+<modify-entry
+   name="tab_dir_home.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/tab_dir_home.gif.svn-base"
+   name=".svn/prop-base/tempfile.40.tmp"/>
+<readonly
+   name=".svn/prop-base/tab_dir_home.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="tab_dir_home.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="tab_dir_home.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/tab_dir_home.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="tab_dir_home.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="tab_dir_home.gif"
+   name=".svn/tmp/text-base/tab_dir_home.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/tab_dir_home.gif.svn-base"
+   name=".svn/tmp/text-base/tab_dir_home.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/tab_dir_home.gif.svn-base"/>
+<modify-entry
+   name="tab_dir_home.gif"
+   checksum="51d68805c1226b86c54f3fe467f4c1d8"/>
+<modify-entry
+   name="tab_dir_home.gif"
+   text-time="working"/>
+<modify-entry
+   name="tab_dir_home.gif"
+   working-size="working"/>
+<modify-entry
+   name="campo_menor.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/campo_menor.png.svn-base"
+   name=".svn/prop-base/tempfile.41.tmp"/>
+<readonly
+   name=".svn/prop-base/campo_menor.png.svn-base"/>
+<modify-entry
+   committed-rev="58"
+   committed-date="2012-02-09T13:26:52.741504Z"
+   name="campo_menor.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="campo_menor.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/58/tags/campo_menor.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="campo_menor.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="campo_menor.png"
+   name=".svn/tmp/text-base/campo_menor.png.svn-base"/>
+<mv
+   dest=".svn/text-base/campo_menor.png.svn-base"
+   name=".svn/tmp/text-base/campo_menor.png.svn-base"/>
+<readonly
+   name=".svn/text-base/campo_menor.png.svn-base"/>
+<modify-entry
+   name="campo_menor.png"
+   checksum="d27d8fb899cb4cc4c58bb80462fe3614"/>
+<modify-entry
+   name="campo_menor.png"
+   text-time="working"/>
+<modify-entry
+   name="campo_menor.png"
+   working-size="working"/>
+<modify-entry
+   name="lateral_esquerda_maior_home_sem_menu.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/lateral_esquerda_maior_home_sem_menu.jpg.svn-base"
+   name=".svn/prop-base/tempfile.42.tmp"/>
+<readonly
+   name=".svn/prop-base/lateral_esquerda_maior_home_sem_menu.jpg.svn-base"/>
+<modify-entry
+   committed-rev="63"
+   committed-date="2012-03-29T18:09:10.345056Z"
+   name="lateral_esquerda_maior_home_sem_menu.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="lateral_esquerda_maior_home_sem_menu.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/63/tags/lateral_esquerda_maior_home_sem_menu.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="lateral_esquerda_maior_home_sem_menu.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="lateral_esquerda_maior_home_sem_menu.jpg"
+   name=".svn/tmp/text-base/lateral_esquerda_maior_home_sem_menu.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/lateral_esquerda_maior_home_sem_menu.jpg.svn-base"
+   name=".svn/tmp/text-base/lateral_esquerda_maior_home_sem_menu.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/lateral_esquerda_maior_home_sem_menu.jpg.svn-base"/>
+<modify-entry
+   name="lateral_esquerda_maior_home_sem_menu.jpg"
+   checksum="0f26897b47dd7c6f66a54fe932ef9446"/>
+<modify-entry
+   name="lateral_esquerda_maior_home_sem_menu.jpg"
+   text-time="working"/>
+<modify-entry
+   name="lateral_esquerda_maior_home_sem_menu.jpg"
+   working-size="working"/>
+<modify-entry
+   name="logoSemaGoverno.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/logoSemaGoverno.jpg.svn-base"
+   name=".svn/prop-base/tempfile.43.tmp"/>
+<readonly
+   name=".svn/prop-base/logoSemaGoverno.jpg.svn-base"/>
+<modify-entry
+   committed-rev="59"
+   committed-date="2012-02-10T11:59:35.500187Z"
+   name="logoSemaGoverno.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="logoSemaGoverno.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/59/tags/logoSemaGoverno.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="logoSemaGoverno.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="logoSemaGoverno.jpg"
+   name=".svn/tmp/text-base/logoSemaGoverno.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/logoSemaGoverno.jpg.svn-base"
+   name=".svn/tmp/text-base/logoSemaGoverno.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/logoSemaGoverno.jpg.svn-base"/>
+<modify-entry
+   name="logoSemaGoverno.jpg"
+   checksum="b97390c859802f332271f8e288ffc9d9"/>
+<modify-entry
+   name="logoSemaGoverno.jpg"
+   text-time="working"/>
+<modify-entry
+   name="logoSemaGoverno.jpg"
+   working-size="working"/>
+<modify-entry
+   name="btn_calendario.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/btn_calendario.png.svn-base"
+   name=".svn/prop-base/tempfile.44.tmp"/>
+<readonly
+   name=".svn/prop-base/btn_calendario.png.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="btn_calendario.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="btn_calendario.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/btn_calendario.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="btn_calendario.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="btn_calendario.png"
+   name=".svn/tmp/text-base/btn_calendario.png.svn-base"/>
+<mv
+   dest=".svn/text-base/btn_calendario.png.svn-base"
+   name=".svn/tmp/text-base/btn_calendario.png.svn-base"/>
+<readonly
+   name=".svn/text-base/btn_calendario.png.svn-base"/>
+<modify-entry
+   name="btn_calendario.png"
+   checksum="f9b1493ca614e55ddfe6a5007c5a04cb"/>
+<modify-entry
+   name="btn_calendario.png"
+   text-time="working"/>
+<modify-entry
+   name="btn_calendario.png"
+   working-size="working"/>
+<modify-entry
+   name="unidade.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/unidade.jpg.svn-base"
+   name=".svn/prop-base/tempfile.45.tmp"/>
+<readonly
+   name=".svn/prop-base/unidade.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="unidade.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="unidade.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/unidade.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="unidade.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="unidade.jpg"
+   name=".svn/tmp/text-base/unidade.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/unidade.jpg.svn-base"
+   name=".svn/tmp/text-base/unidade.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/unidade.jpg.svn-base"/>
+<modify-entry
+   name="unidade.jpg"
+   checksum="6ce2df6a43ea0aca105adccde8cc5261"/>
+<modify-entry
+   name="unidade.jpg"
+   text-time="working"/>
+<modify-entry
+   name="unidade.jpg"
+   working-size="working"/>
+<modify-entry
+   name="bg_imagem.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/bg_imagem.png.svn-base"
+   name=".svn/prop-base/tempfile.46.tmp"/>
+<readonly
+   name=".svn/prop-base/bg_imagem.png.svn-base"/>
+<modify-entry
+   committed-rev="58"
+   committed-date="2012-02-09T13:26:52.741504Z"
+   name="bg_imagem.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="bg_imagem.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/58/tags/bg_imagem.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="bg_imagem.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="bg_imagem.png"
+   name=".svn/tmp/text-base/bg_imagem.png.svn-base"/>
+<mv
+   dest=".svn/text-base/bg_imagem.png.svn-base"
+   name=".svn/tmp/text-base/bg_imagem.png.svn-base"/>
+<readonly
+   name=".svn/text-base/bg_imagem.png.svn-base"/>
+<modify-entry
+   name="bg_imagem.png"
+   checksum="947864db2c95d00bcd705e08046d7406"/>
+<modify-entry
+   name="bg_imagem.png"
+   text-time="working"/>
+<modify-entry
+   name="bg_imagem.png"
+   working-size="working"/>
+<modify-entry
+   name="bgaba_off.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/bgaba_off.gif.svn-base"
+   name=".svn/prop-base/tempfile.47.tmp"/>
+<readonly
+   name=".svn/prop-base/bgaba_off.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="bgaba_off.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="bgaba_off.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/bgaba_off.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="bgaba_off.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="bgaba_off.gif"
+   name=".svn/tmp/text-base/bgaba_off.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/bgaba_off.gif.svn-base"
+   name=".svn/tmp/text-base/bgaba_off.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/bgaba_off.gif.svn-base"/>
+<modify-entry
+   name="bgaba_off.gif"
+   checksum="5bbb8ffc65f61ae51f81156c1bdd8c57"/>
+<modify-entry
+   name="bgaba_off.gif"
+   text-time="working"/>
+<modify-entry
+   name="bgaba_off.gif"
+   working-size="working"/>
+<modify-entry
+   name="menu_tab_dir.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/menu_tab_dir.gif.svn-base"
+   name=".svn/prop-base/tempfile.48.tmp"/>
+<readonly
+   name=".svn/prop-base/menu_tab_dir.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="menu_tab_dir.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="menu_tab_dir.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/menu_tab_dir.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="menu_tab_dir.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="menu_tab_dir.gif"
+   name=".svn/tmp/text-base/menu_tab_dir.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/menu_tab_dir.gif.svn-base"
+   name=".svn/tmp/text-base/menu_tab_dir.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/menu_tab_dir.gif.svn-base"/>
+<modify-entry
+   name="menu_tab_dir.gif"
+   checksum="b05c4b34093b3d42a06eec12f7676dfc"/>
+<modify-entry
+   name="menu_tab_dir.gif"
+   text-time="working"/>
+<modify-entry
+   name="menu_tab_dir.gif"
+   working-size="working"/>
+<modify-entry
+   name="lateral_esquerda_menor_home_sem_menu.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/lateral_esquerda_menor_home_sem_menu.jpg.svn-base"
+   name=".svn/prop-base/tempfile.49.tmp"/>
+<readonly
+   name=".svn/prop-base/lateral_esquerda_menor_home_sem_menu.jpg.svn-base"/>
+<modify-entry
+   committed-rev="63"
+   committed-date="2012-03-29T18:09:10.345056Z"
+   name="lateral_esquerda_menor_home_sem_menu.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="lateral_esquerda_menor_home_sem_menu.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/63/tags/lateral_esquerda_menor_home_sem_menu.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="lateral_esquerda_menor_home_sem_menu.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="lateral_esquerda_menor_home_sem_menu.jpg"
+   name=".svn/tmp/text-base/lateral_esquerda_menor_home_sem_menu.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/lateral_esquerda_menor_home_sem_menu.jpg.svn-base"
+   name=".svn/tmp/text-base/lateral_esquerda_menor_home_sem_menu.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/lateral_esquerda_menor_home_sem_menu.jpg.svn-base"/>
+<modify-entry
+   name="lateral_esquerda_menor_home_sem_menu.jpg"
+   checksum="cfc5ce1842518a812582c500ce2a0a9e"/>
+<modify-entry
+   name="lateral_esquerda_menor_home_sem_menu.jpg"
+   text-time="working"/>
+<modify-entry
+   name="lateral_esquerda_menor_home_sem_menu.jpg"
+   working-size="working"/>
+<modify-entry
+   name="img_topo.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/img_topo.jpg.svn-base"
+   name=".svn/prop-base/tempfile.50.tmp"/>
+<readonly
+   name=".svn/prop-base/img_topo.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="img_topo.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="img_topo.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/img_topo.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="img_topo.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="img_topo.jpg"
+   name=".svn/tmp/text-base/img_topo.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/img_topo.jpg.svn-base"
+   name=".svn/tmp/text-base/img_topo.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/img_topo.jpg.svn-base"/>
+<modify-entry
+   name="img_topo.jpg"
+   checksum="ebe06755f518de3ffc48cf4e35c3d36d"/>
+<modify-entry
+   name="img_topo.jpg"
+   text-time="working"/>
+<modify-entry
+   name="img_topo.jpg"
+   working-size="working"/>
+<modify-entry
+   name="logo1.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/logo1.jpg.svn-base"
+   name=".svn/prop-base/tempfile.51.tmp"/>
+<readonly
+   name=".svn/prop-base/logo1.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="logo1.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="logo1.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/logo1.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="logo1.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="logo1.jpg"
+   name=".svn/tmp/text-base/logo1.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/logo1.jpg.svn-base"
+   name=".svn/tmp/text-base/logo1.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/logo1.jpg.svn-base"/>
+<modify-entry
+   name="logo1.jpg"
+   checksum="b394922a99940d25a6ab12f423fee5f1"/>
+<modify-entry
+   name="logo1.jpg"
+   text-time="working"/>
+<modify-entry
+   name="logo1.jpg"
+   working-size="working"/>
+<modify-entry
+   name="img_destaque_home02.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/img_destaque_home02.jpg.svn-base"
+   name=".svn/prop-base/tempfile.52.tmp"/>
+<readonly
+   name=".svn/prop-base/img_destaque_home02.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="img_destaque_home02.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="img_destaque_home02.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/img_destaque_home02.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="img_destaque_home02.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="img_destaque_home02.jpg"
+   name=".svn/tmp/text-base/img_destaque_home02.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/img_destaque_home02.jpg.svn-base"
+   name=".svn/tmp/text-base/img_destaque_home02.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/img_destaque_home02.jpg.svn-base"/>
+<modify-entry
+   name="img_destaque_home02.jpg"
+   checksum="600ebe02a9833a888a9381a816037c52"/>
+<modify-entry
+   name="img_destaque_home02.jpg"
+   text-time="working"/>
+<modify-entry
+   name="img_destaque_home02.jpg"
+   working-size="working"/>
+<modify-entry
+   name="btn_inscricao.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/btn_inscricao.png.svn-base"
+   name=".svn/prop-base/tempfile.53.tmp"/>
+<readonly
+   name=".svn/prop-base/btn_inscricao.png.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="btn_inscricao.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="btn_inscricao.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/btn_inscricao.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="btn_inscricao.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="btn_inscricao.png"
+   name=".svn/tmp/text-base/btn_inscricao.png.svn-base"/>
+<mv
+   dest=".svn/text-base/btn_inscricao.png.svn-base"
+   name=".svn/tmp/text-base/btn_inscricao.png.svn-base"/>
+<readonly
+   name=".svn/text-base/btn_inscricao.png.svn-base"/>
+<modify-entry
+   name="btn_inscricao.png"
+   checksum="728ae259008b3021b3b8d778cd5777fc"/>
+<modify-entry
+   name="btn_inscricao.png"
+   text-time="working"/>
+<modify-entry
+   name="btn_inscricao.png"
+   working-size="working"/>
+<modify-entry
+   name="btn_a_conferencia.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/btn_a_conferencia.png.svn-base"
+   name=".svn/prop-base/tempfile.54.tmp"/>
+<readonly
+   name=".svn/prop-base/btn_a_conferencia.png.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="btn_a_conferencia.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="btn_a_conferencia.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/btn_a_conferencia.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="btn_a_conferencia.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="btn_a_conferencia.png"
+   name=".svn/tmp/text-base/btn_a_conferencia.png.svn-base"/>
+<mv
+   dest=".svn/text-base/btn_a_conferencia.png.svn-base"
+   name=".svn/tmp/text-base/btn_a_conferencia.png.svn-base"/>
+<readonly
+   name=".svn/text-base/btn_a_conferencia.png.svn-base"/>
+<modify-entry
+   name="btn_a_conferencia.png"
+   checksum="d36205c6178ca5fd1b0b9c1b71c8c12f"/>
+<modify-entry
+   name="btn_a_conferencia.png"
+   text-time="working"/>
+<modify-entry
+   name="btn_a_conferencia.png"
+   working-size="working"/>
+<modify-entry
+   name="sombra_dir.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/sombra_dir.png.svn-base"
+   name=".svn/prop-base/tempfile.55.tmp"/>
+<readonly
+   name=".svn/prop-base/sombra_dir.png.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="sombra_dir.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="sombra_dir.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/sombra_dir.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="sombra_dir.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="sombra_dir.png"
+   name=".svn/tmp/text-base/sombra_dir.png.svn-base"/>
+<mv
+   dest=".svn/text-base/sombra_dir.png.svn-base"
+   name=".svn/tmp/text-base/sombra_dir.png.svn-base"/>
+<readonly
+   name=".svn/text-base/sombra_dir.png.svn-base"/>
+<modify-entry
+   name="sombra_dir.png"
+   checksum="3c803e8ac45163ddb48981050fbb1e1e"/>
+<modify-entry
+   name="sombra_dir.png"
+   text-time="working"/>
+<modify-entry
+   name="sombra_dir.png"
+   working-size="working"/>
+<modify-entry
+   name="topo_home.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/topo_home.jpg.svn-base"
+   name=".svn/prop-base/tempfile.56.tmp"/>
+<readonly
+   name=".svn/prop-base/topo_home.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="topo_home.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="topo_home.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/topo_home.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="topo_home.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="topo_home.jpg"
+   name=".svn/tmp/text-base/topo_home.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/topo_home.jpg.svn-base"
+   name=".svn/tmp/text-base/topo_home.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/topo_home.jpg.svn-base"/>
+<modify-entry
+   name="topo_home.jpg"
+   checksum="e2a1654d3defe5f66a5eff427eafebc2"/>
+<modify-entry
+   name="topo_home.jpg"
+   text-time="working"/>
+<modify-entry
+   name="topo_home.jpg"
+   working-size="working"/>
+<modify-entry
+   name="btn_material_apoio.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/btn_material_apoio.png.svn-base"
+   name=".svn/prop-base/tempfile.57.tmp"/>
+<readonly
+   name=".svn/prop-base/btn_material_apoio.png.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="btn_material_apoio.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="btn_material_apoio.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/btn_material_apoio.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="btn_material_apoio.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="btn_material_apoio.png"
+   name=".svn/tmp/text-base/btn_material_apoio.png.svn-base"/>
+<mv
+   dest=".svn/text-base/btn_material_apoio.png.svn-base"
+   name=".svn/tmp/text-base/btn_material_apoio.png.svn-base"/>
+<readonly
+   name=".svn/text-base/btn_material_apoio.png.svn-base"/>
+<modify-entry
+   name="btn_material_apoio.png"
+   checksum="8b33b7ceb40a8acb9cb6f3a61228e6ce"/>
+<modify-entry
+   name="btn_material_apoio.png"
+   text-time="working"/>
+<modify-entry
+   name="btn_material_apoio.png"
+   working-size="working"/>
+<modify-entry
+   name="Seta_direita_Conferencia.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/Seta_direita_Conferencia.png.svn-base"
+   name=".svn/prop-base/tempfile.58.tmp"/>
+<readonly
+   name=".svn/prop-base/Seta_direita_Conferencia.png.svn-base"/>
+<modify-entry
+   committed-rev="58"
+   committed-date="2012-02-09T13:26:52.741504Z"
+   name="Seta_direita_Conferencia.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="Seta_direita_Conferencia.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/58/tags/Seta_direita_Conferencia.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Seta_direita_Conferencia.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="Seta_direita_Conferencia.png"
+   name=".svn/tmp/text-base/Seta_direita_Conferencia.png.svn-base"/>
+<mv
+   dest=".svn/text-base/Seta_direita_Conferencia.png.svn-base"
+   name=".svn/tmp/text-base/Seta_direita_Conferencia.png.svn-base"/>
+<readonly
+   name=".svn/text-base/Seta_direita_Conferencia.png.svn-base"/>
+<modify-entry
+   name="Seta_direita_Conferencia.png"
+   checksum="1233b6b3ec38e3a36ba2c5c99e56f284"/>
+<modify-entry
+   name="Seta_direita_Conferencia.png"
+   text-time="working"/>
+<modify-entry
+   name="Seta_direita_Conferencia.png"
+   working-size="working"/>
+<modify-entry
+   name="bg_tab_on.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/bg_tab_on.gif.svn-base"
+   name=".svn/prop-base/tempfile.59.tmp"/>
+<readonly
+   name=".svn/prop-base/bg_tab_on.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="bg_tab_on.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="bg_tab_on.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/bg_tab_on.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="bg_tab_on.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="bg_tab_on.gif"
+   name=".svn/tmp/text-base/bg_tab_on.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/bg_tab_on.gif.svn-base"
+   name=".svn/tmp/text-base/bg_tab_on.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/bg_tab_on.gif.svn-base"/>
+<modify-entry
+   name="bg_tab_on.gif"
+   checksum="0ebbd633392b33aa85052eb8c36b58fa"/>
+<modify-entry
+   name="bg_tab_on.gif"
+   text-time="working"/>
+<modify-entry
+   name="bg_tab_on.gif"
+   working-size="working"/>
+<modify-entry
+   name="carregando_g.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/carregando_g.gif.svn-base"
+   name=".svn/prop-base/tempfile.60.tmp"/>
+<readonly
+   name=".svn/prop-base/carregando_g.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="carregando_g.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="carregando_g.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/carregando_g.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="carregando_g.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="carregando_g.gif"
+   name=".svn/tmp/text-base/carregando_g.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/carregando_g.gif.svn-base"
+   name=".svn/tmp/text-base/carregando_g.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/carregando_g.gif.svn-base"/>
+<modify-entry
+   name="carregando_g.gif"
+   checksum="2e58d89cfa83fef2fecf9a81b44f7a05"/>
+<modify-entry
+   name="carregando_g.gif"
+   text-time="working"/>
+<modify-entry
+   name="carregando_g.gif"
+   working-size="working"/>
+<modify-entry
+   name="botao_img.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/botao_img.png.svn-base"
+   name=".svn/prop-base/tempfile.61.tmp"/>
+<readonly
+   name=".svn/prop-base/botao_img.png.svn-base"/>
+<modify-entry
+   committed-rev="58"
+   committed-date="2012-02-09T13:26:52.741504Z"
+   name="botao_img.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="botao_img.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/58/tags/botao_img.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="botao_img.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="botao_img.png"
+   name=".svn/tmp/text-base/botao_img.png.svn-base"/>
+<mv
+   dest=".svn/text-base/botao_img.png.svn-base"
+   name=".svn/tmp/text-base/botao_img.png.svn-base"/>
+<readonly
+   name=".svn/text-base/botao_img.png.svn-base"/>
+<modify-entry
+   name="botao_img.png"
+   checksum="61294ff92d08856f25c95b2e7708ee1f"/>
+<modify-entry
+   name="botao_img.png"
+   text-time="working"/>
+<modify-entry
+   name="botao_img.png"
+   working-size="working"/>
+<modify-entry
+   name="esconde_filtro2.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/esconde_filtro2.gif.svn-base"
+   name=".svn/prop-base/tempfile.62.tmp"/>
+<readonly
+   name=".svn/prop-base/esconde_filtro2.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="esconde_filtro2.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="esconde_filtro2.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/esconde_filtro2.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="esconde_filtro2.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="esconde_filtro2.gif"
+   name=".svn/tmp/text-base/esconde_filtro2.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/esconde_filtro2.gif.svn-base"
+   name=".svn/tmp/text-base/esconde_filtro2.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/esconde_filtro2.gif.svn-base"/>
+<modify-entry
+   name="esconde_filtro2.gif"
+   checksum="1a963613f3f755f5af332f9dc7d96e36"/>
+<modify-entry
+   name="esconde_filtro2.gif"
+   text-time="working"/>
+<modify-entry
+   name="esconde_filtro2.gif"
+   working-size="working"/>
+<modify-entry
+   name="orgao.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/orgao.jpg.svn-base"
+   name=".svn/prop-base/tempfile.63.tmp"/>
+<readonly
+   name=".svn/prop-base/orgao.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="orgao.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="orgao.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/orgao.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="orgao.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="orgao.jpg"
+   name=".svn/tmp/text-base/orgao.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/orgao.jpg.svn-base"
+   name=".svn/tmp/text-base/orgao.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/orgao.jpg.svn-base"/>
+<modify-entry
+   name="orgao.jpg"
+   checksum="a2a80a59ca67d88ce76939f299f443d2"/>
+<modify-entry
+   name="orgao.jpg"
+   text-time="working"/>
+<modify-entry
+   name="orgao.jpg"
+   working-size="working"/>
+<modify-entry
+   name="Thumbs.db"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/Thumbs.db.svn-base"
+   name=".svn/prop-base/tempfile.64.tmp"/>
+<readonly
+   name=".svn/prop-base/Thumbs.db.svn-base"/>
+<modify-entry
+   committed-rev="58"
+   committed-date="2012-02-09T13:26:52.741504Z"
+   name="Thumbs.db"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="Thumbs.db"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/58/tags/Thumbs.db"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="Thumbs.db"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="Thumbs.db"
+   name=".svn/tmp/text-base/Thumbs.db.svn-base"/>
+<mv
+   dest=".svn/text-base/Thumbs.db.svn-base"
+   name=".svn/tmp/text-base/Thumbs.db.svn-base"/>
+<readonly
+   name=".svn/text-base/Thumbs.db.svn-base"/>
+<modify-entry
+   name="Thumbs.db"
+   checksum="df6189407cf2dbc1d796f215d20c2c3d"/>
+<modify-entry
+   name="Thumbs.db"
+   text-time="working"/>
+<modify-entry
+   name="Thumbs.db"
+   working-size="working"/>
+<modify-entry
+   name="em_manutencao.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/em_manutencao.jpg.svn-base"
+   name=".svn/prop-base/tempfile.65.tmp"/>
+<readonly
+   name=".svn/prop-base/em_manutencao.jpg.svn-base"/>
+<modify-entry
+   committed-rev="58"
+   committed-date="2012-02-09T13:26:52.741504Z"
+   name="em_manutencao.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="em_manutencao.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/58/tags/em_manutencao.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="em_manutencao.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="em_manutencao.jpg"
+   name=".svn/tmp/text-base/em_manutencao.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/em_manutencao.jpg.svn-base"
+   name=".svn/tmp/text-base/em_manutencao.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/em_manutencao.jpg.svn-base"/>
+<modify-entry
+   name="em_manutencao.jpg"
+   checksum="a85bda54f160f91d7ded035e5e3446a6"/>
+<modify-entry
+   name="em_manutencao.jpg"
+   text-time="working"/>
+<modify-entry
+   name="em_manutencao.jpg"
+   working-size="working"/>
+<modify-entry
+   name="aba_esq_on.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/aba_esq_on.gif.svn-base"
+   name=".svn/prop-base/tempfile.66.tmp"/>
+<readonly
+   name=".svn/prop-base/aba_esq_on.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="aba_esq_on.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="aba_esq_on.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/aba_esq_on.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="aba_esq_on.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="aba_esq_on.gif"
+   name=".svn/tmp/text-base/aba_esq_on.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/aba_esq_on.gif.svn-base"
+   name=".svn/tmp/text-base/aba_esq_on.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/aba_esq_on.gif.svn-base"/>
+<modify-entry
+   name="aba_esq_on.gif"
+   checksum="2a32f0242b49f5e92e7bea741c7fe713"/>
+<modify-entry
+   name="aba_esq_on.gif"
+   text-time="working"/>
+<modify-entry
+   name="aba_esq_on.gif"
+   working-size="working"/>
+<modify-entry
+   name="px.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/px.gif.svn-base"
+   name=".svn/prop-base/tempfile.67.tmp"/>
+<readonly
+   name=".svn/prop-base/px.gif.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="px.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="px.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/px.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="px.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="px.gif"
+   name=".svn/tmp/text-base/px.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/px.gif.svn-base"
+   name=".svn/tmp/text-base/px.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/px.gif.svn-base"/>
+<modify-entry
+   name="px.gif"
+   checksum="4447108c3403ac3366a4037114c70da3"/>
+<modify-entry
+   name="px.gif"
+   text-time="working"/>
+<modify-entry
+   name="px.gif"
+   working-size="working"/>
+<modify-entry
+   name="calendar.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/calendar.png.svn-base"
+   name=".svn/prop-base/tempfile.68.tmp"/>
+<readonly
+   name=".svn/prop-base/calendar.png.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="calendar.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="calendar.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/calendar.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="calendar.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="calendar.png"
+   name=".svn/tmp/text-base/calendar.png.svn-base"/>
+<mv
+   dest=".svn/text-base/calendar.png.svn-base"
+   name=".svn/tmp/text-base/calendar.png.svn-base"/>
+<readonly
+   name=".svn/text-base/calendar.png.svn-base"/>
+<modify-entry
+   name="calendar.png"
+   checksum="5dec6e15bc32e1d248b76211937a8113"/>
+<modify-entry
+   name="calendar.png"
+   text-time="working"/>
+<modify-entry
+   name="calendar.png"
+   working-size="working"/>
+<modify-entry
+   name="especie.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/especie.jpg.svn-base"
+   name=".svn/prop-base/tempfile.69.tmp"/>
+<readonly
+   name=".svn/prop-base/especie.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="especie.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="especie.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/especie.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="especie.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="especie.jpg"
+   name=".svn/tmp/text-base/especie.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/especie.jpg.svn-base"
+   name=".svn/tmp/text-base/especie.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/especie.jpg.svn-base"/>
+<modify-entry
+   name="especie.jpg"
+   checksum="d3fb807db9b52e49ea0c97f7d0fd1e44"/>
+<modify-entry
+   name="especie.jpg"
+   text-time="working"/>
+<modify-entry
+   name="especie.jpg"
+   working-size="working"/>
+<modify-entry
+   name="beneficiario_bloqueado.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/beneficiario_bloqueado.png.svn-base"
+   name=".svn/prop-base/tempfile.70.tmp"/>
+<readonly
+   name=".svn/prop-base/beneficiario_bloqueado.png.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="beneficiario_bloqueado.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="beneficiario_bloqueado.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/beneficiario_bloqueado.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="beneficiario_bloqueado.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="beneficiario_bloqueado.png"
+   name=".svn/tmp/text-base/beneficiario_bloqueado.png.svn-base"/>
+<mv
+   dest=".svn/text-base/beneficiario_bloqueado.png.svn-base"
+   name=".svn/tmp/text-base/beneficiario_bloqueado.png.svn-base"/>
+<readonly
+   name=".svn/text-base/beneficiario_bloqueado.png.svn-base"/>
+<modify-entry
+   name="beneficiario_bloqueado.png"
+   checksum="312206ce8fa7644b8d8e843548a5c8d9"/>
+<modify-entry
+   name="beneficiario_bloqueado.png"
+   text-time="working"/>
+<modify-entry
+   name="beneficiario_bloqueado.png"
+   working-size="working"/>
+<modify-entry
+   name="btn_noticias.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/btn_noticias.png.svn-base"
+   name=".svn/prop-base/tempfile.71.tmp"/>
+<readonly
+   name=".svn/prop-base/btn_noticias.png.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="btn_noticias.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="btn_noticias.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/btn_noticias.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="btn_noticias.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="btn_noticias.png"
+   name=".svn/tmp/text-base/btn_noticias.png.svn-base"/>
+<mv
+   dest=".svn/text-base/btn_noticias.png.svn-base"
+   name=".svn/tmp/text-base/btn_noticias.png.svn-base"/>
+<readonly
+   name=".svn/text-base/btn_noticias.png.svn-base"/>
+<modify-entry
+   name="btn_noticias.png"
+   checksum="41d2c95d5516b47890820108fc420f66"/>
+<modify-entry
+   name="btn_noticias.png"
+   text-time="working"/>
+<modify-entry
+   name="btn_noticias.png"
+   working-size="working"/>
+<modify-entry
+   name="gov.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/gov.gif.svn-base"
+   name=".svn/prop-base/tempfile.72.tmp"/>
+<readonly
+   name=".svn/prop-base/gov.gif.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="gov.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="gov.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/gov.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="gov.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="gov.gif"
+   name=".svn/tmp/text-base/gov.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/gov.gif.svn-base"
+   name=".svn/tmp/text-base/gov.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/gov.gif.svn-base"/>
+<modify-entry
+   name="gov.gif"
+   checksum="50436669361c74250b14798f44288df9"/>
+<modify-entry
+   name="gov.gif"
+   text-time="working"/>
+<modify-entry
+   name="gov.gif"
+   working-size="working"/>
+<modify-entry
+   name="logo_menor_bkp.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/logo_menor_bkp.jpg.svn-base"
+   name=".svn/prop-base/tempfile.73.tmp"/>
+<readonly
+   name=".svn/prop-base/logo_menor_bkp.jpg.svn-base"/>
+<modify-entry
+   committed-rev="58"
+   committed-date="2012-02-09T13:26:52.741504Z"
+   name="logo_menor_bkp.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="logo_menor_bkp.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/58/tags/logo_menor_bkp.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="logo_menor_bkp.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="logo_menor_bkp.jpg"
+   name=".svn/tmp/text-base/logo_menor_bkp.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/logo_menor_bkp.jpg.svn-base"
+   name=".svn/tmp/text-base/logo_menor_bkp.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/logo_menor_bkp.jpg.svn-base"/>
+<modify-entry
+   name="logo_menor_bkp.jpg"
+   checksum="0adc1174a76b173e38231bed36f9c0be"/>
+<modify-entry
+   name="logo_menor_bkp.jpg"
+   text-time="working"/>
+<modify-entry
+   name="logo_menor_bkp.jpg"
+   working-size="working"/>
+<modify-entry
+   name="calendar.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/calendar.gif.svn-base"
+   name=".svn/prop-base/tempfile.74.tmp"/>
+<readonly
+   name=".svn/prop-base/calendar.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="calendar.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="calendar.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/calendar.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="calendar.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="calendar.gif"
+   name=".svn/tmp/text-base/calendar.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/calendar.gif.svn-base"
+   name=".svn/tmp/text-base/calendar.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/calendar.gif.svn-base"/>
+<modify-entry
+   name="calendar.gif"
+   checksum="b394717c48cb6e72ad737e32664a8004"/>
+<modify-entry
+   name="calendar.gif"
+   text-time="working"/>
+<modify-entry
+   name="calendar.gif"
+   working-size="working"/>
+<modify-entry
+   name="logo_old.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/logo_old.jpg.svn-base"
+   name=".svn/prop-base/tempfile.75.tmp"/>
+<readonly
+   name=".svn/prop-base/logo_old.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="logo_old.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="logo_old.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/logo_old.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="logo_old.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="logo_old.jpg"
+   name=".svn/tmp/text-base/logo_old.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/logo_old.jpg.svn-base"
+   name=".svn/tmp/text-base/logo_old.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/logo_old.jpg.svn-base"/>
+<modify-entry
+   name="logo_old.jpg"
+   checksum="f732ba1ff2dda18b94e349895538e211"/>
+<modify-entry
+   name="logo_old.jpg"
+   text-time="working"/>
+<modify-entry
+   name="logo_old.jpg"
+   working-size="working"/>
+<modify-entry
+   name="banner_fundo.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/banner_fundo.jpg.svn-base"
+   name=".svn/prop-base/tempfile.76.tmp"/>
+<readonly
+   name=".svn/prop-base/banner_fundo.jpg.svn-base"/>
+<modify-entry
+   committed-rev="58"
+   committed-date="2012-02-09T13:26:52.741504Z"
+   name="banner_fundo.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="banner_fundo.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/58/tags/banner_fundo.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="banner_fundo.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="banner_fundo.jpg"
+   name=".svn/tmp/text-base/banner_fundo.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/banner_fundo.jpg.svn-base"
+   name=".svn/tmp/text-base/banner_fundo.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/banner_fundo.jpg.svn-base"/>
+<modify-entry
+   name="banner_fundo.jpg"
+   checksum="2ee0aad6c1255f071198f9d94d96ee14"/>
+<modify-entry
+   name="banner_fundo.jpg"
+   text-time="working"/>
+<modify-entry
+   name="banner_fundo.jpg"
+   working-size="working"/>
+<modify-entry
+   name="logo.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/logo.jpg.svn-base"
+   name=".svn/prop-base/tempfile.77.tmp"/>
+<readonly
+   name=".svn/prop-base/logo.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="logo.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="logo.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/logo.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="logo.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="logo.jpg"
+   name=".svn/tmp/text-base/logo.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/logo.jpg.svn-base"
+   name=".svn/tmp/text-base/logo.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/logo.jpg.svn-base"/>
+<modify-entry
+   name="logo.jpg"
+   checksum="b9549c0a9aa314ef15a02f1f2119bcc0"/>
+<modify-entry
+   name="logo.jpg"
+   text-time="working"/>
+<modify-entry
+   name="logo.jpg"
+   working-size="working"/>
+<modify-entry
+   name="estadual.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/estadual.jpg.svn-base"
+   name=".svn/prop-base/tempfile.78.tmp"/>
+<readonly
+   name=".svn/prop-base/estadual.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="estadual.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="estadual.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/estadual.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="estadual.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="estadual.jpg"
+   name=".svn/tmp/text-base/estadual.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/estadual.jpg.svn-base"
+   name=".svn/tmp/text-base/estadual.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/estadual.jpg.svn-base"/>
+<modify-entry
+   name="estadual.jpg"
+   checksum="db796abd8e6f55c366ef9bdc7c78c08b"/>
+<modify-entry
+   name="estadual.jpg"
+   text-time="working"/>
+<modify-entry
+   name="estadual.jpg"
+   working-size="working"/>
+<modify-entry
+   name="diairas Pagas1.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/diairas Pagas1.jpg.svn-base"
+   name=".svn/prop-base/tempfile.79.tmp"/>
+<readonly
+   name=".svn/prop-base/diairas Pagas1.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="diairas Pagas1.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="diairas Pagas1.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/diairas%20Pagas1.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="diairas Pagas1.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="diairas Pagas1.jpg"
+   name=".svn/tmp/text-base/diairas Pagas1.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/diairas Pagas1.jpg.svn-base"
+   name=".svn/tmp/text-base/diairas Pagas1.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/diairas Pagas1.jpg.svn-base"/>
+<modify-entry
+   name="diairas Pagas1.jpg"
+   checksum="b60d895dd4da6e4c4695c2bc68fb0ea5"/>
+<modify-entry
+   name="diairas Pagas1.jpg"
+   text-time="working"/>
+<modify-entry
+   name="diairas Pagas1.jpg"
+   working-size="working"/>
+<modify-entry
+   name="btn_contato.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/btn_contato.png.svn-base"
+   name=".svn/prop-base/tempfile.80.tmp"/>
+<readonly
+   name=".svn/prop-base/btn_contato.png.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="btn_contato.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="btn_contato.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/btn_contato.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="btn_contato.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="btn_contato.png"
+   name=".svn/tmp/text-base/btn_contato.png.svn-base"/>
+<mv
+   dest=".svn/text-base/btn_contato.png.svn-base"
+   name=".svn/tmp/text-base/btn_contato.png.svn-base"/>
+<readonly
+   name=".svn/text-base/btn_contato.png.svn-base"/>
+<modify-entry
+   name="btn_contato.png"
+   checksum="34224195010ce4353b0aebde14cb02af"/>
+<modify-entry
+   name="btn_contato.png"
+   text-time="working"/>
+<modify-entry
+   name="btn_contato.png"
+   working-size="working"/>
+<modify-entry
+   name="exercício.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/exercício.jpg.svn-base"
+   name=".svn/prop-base/tempfile.81.tmp"/>
+<readonly
+   name=".svn/prop-base/exercício.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="exercício.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="exercício.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/exerc%C3%ADcio.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="exercício.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="exercício.jpg"
+   name=".svn/tmp/text-base/exercício.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/exercício.jpg.svn-base"
+   name=".svn/tmp/text-base/exercício.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/exercício.jpg.svn-base"/>
+<modify-entry
+   name="exercício.jpg"
+   checksum="c9fe06a6095cabbcd9d21fe3bfc002f4"/>
+<modify-entry
+   name="exercício.jpg"
+   text-time="working"/>
+<modify-entry
+   name="exercício.jpg"
+   working-size="working"/>
+<modify-entry
+   name="sombra_lateral_dir.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/sombra_lateral_dir.jpg.svn-base"
+   name=".svn/prop-base/tempfile.82.tmp"/>
+<readonly
+   name=".svn/prop-base/sombra_lateral_dir.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="sombra_lateral_dir.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="sombra_lateral_dir.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/sombra_lateral_dir.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="sombra_lateral_dir.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="sombra_lateral_dir.jpg"
+   name=".svn/tmp/text-base/sombra_lateral_dir.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/sombra_lateral_dir.jpg.svn-base"
+   name=".svn/tmp/text-base/sombra_lateral_dir.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/sombra_lateral_dir.jpg.svn-base"/>
+<modify-entry
+   name="sombra_lateral_dir.jpg"
+   checksum="c9a601fd0c46819b5d85e5a07ede61a2"/>
+<modify-entry
+   name="sombra_lateral_dir.jpg"
+   text-time="working"/>
+<modify-entry
+   name="sombra_lateral_dir.jpg"
+   working-size="working"/>
+<modify-entry
+   name="menu_tab_meio.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/menu_tab_meio.gif.svn-base"
+   name=".svn/prop-base/tempfile.83.tmp"/>
+<readonly
+   name=".svn/prop-base/menu_tab_meio.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="menu_tab_meio.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="menu_tab_meio.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/menu_tab_meio.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="menu_tab_meio.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="menu_tab_meio.gif"
+   name=".svn/tmp/text-base/menu_tab_meio.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/menu_tab_meio.gif.svn-base"
+   name=".svn/tmp/text-base/menu_tab_meio.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/menu_tab_meio.gif.svn-base"/>
+<modify-entry
+   name="menu_tab_meio.gif"
+   checksum="5972aab49f6a5e5c11b8dab5149eb256"/>
+<modify-entry
+   name="menu_tab_meio.gif"
+   text-time="working"/>
+<modify-entry
+   name="menu_tab_meio.gif"
+   working-size="working"/>
+<modify-entry
+   name="unidade_responsavel.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/unidade_responsavel.jpg.svn-base"
+   name=".svn/prop-base/tempfile.84.tmp"/>
+<readonly
+   name=".svn/prop-base/unidade_responsavel.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="unidade_responsavel.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="unidade_responsavel.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/unidade_responsavel.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="unidade_responsavel.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="unidade_responsavel.jpg"
+   name=".svn/tmp/text-base/unidade_responsavel.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/unidade_responsavel.jpg.svn-base"
+   name=".svn/tmp/text-base/unidade_responsavel.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/unidade_responsavel.jpg.svn-base"/>
+<modify-entry
+   name="unidade_responsavel.jpg"
+   checksum="dc0352ddee88e016ac05c2998eda668e"/>
+<modify-entry
+   name="unidade_responsavel.jpg"
+   text-time="working"/>
+<modify-entry
+   name="unidade_responsavel.jpg"
+   working-size="working"/>
+<modify-entry
+   name="line.png"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/line.png.svn-base"
+   name=".svn/prop-base/tempfile.85.tmp"/>
+<readonly
+   name=".svn/prop-base/line.png.svn-base"/>
+<modify-entry
+   committed-rev="58"
+   committed-date="2012-02-09T13:26:52.741504Z"
+   name="line.png"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="line.png"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/58/tags/line.png"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="line.png"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="line.png"
+   name=".svn/tmp/text-base/line.png.svn-base"/>
+<mv
+   dest=".svn/text-base/line.png.svn-base"
+   name=".svn/tmp/text-base/line.png.svn-base"/>
+<readonly
+   name=".svn/text-base/line.png.svn-base"/>
+<modify-entry
+   name="line.png"
+   checksum="9cce87352f40d524d5a7224ad449c730"/>
+<modify-entry
+   name="line.png"
+   text-time="working"/>
+<modify-entry
+   name="line.png"
+   working-size="working"/>
+<modify-entry
+   name="sombra_esq.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/sombra_esq.jpg.svn-base"
+   name=".svn/prop-base/tempfile.86.tmp"/>
+<readonly
+   name=".svn/prop-base/sombra_esq.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="sombra_esq.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="sombra_esq.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/sombra_esq.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="sombra_esq.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="sombra_esq.jpg"
+   name=".svn/tmp/text-base/sombra_esq.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/sombra_esq.jpg.svn-base"
+   name=".svn/tmp/text-base/sombra_esq.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/sombra_esq.jpg.svn-base"/>
+<modify-entry
+   name="sombra_esq.jpg"
+   checksum="77404a66bc3bd1b6b86d0572e0b3f5f3"/>
+<modify-entry
+   name="sombra_esq.jpg"
+   text-time="working"/>
+<modify-entry
+   name="sombra_esq.jpg"
+   working-size="working"/>
+<modify-entry
+   name="lateral_direita_menor_home.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/lateral_direita_menor_home.jpg.svn-base"
+   name=".svn/prop-base/tempfile.87.tmp"/>
+<readonly
+   name=".svn/prop-base/lateral_direita_menor_home.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="lateral_direita_menor_home.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="lateral_direita_menor_home.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/lateral_direita_menor_home.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="lateral_direita_menor_home.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="lateral_direita_menor_home.jpg"
+   name=".svn/tmp/text-base/lateral_direita_menor_home.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/lateral_direita_menor_home.jpg.svn-base"
+   name=".svn/tmp/text-base/lateral_direita_menor_home.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/lateral_direita_menor_home.jpg.svn-base"/>
+<modify-entry
+   name="lateral_direita_menor_home.jpg"
+   checksum="dae8884b92b2182a9c4d98ae0eefdd0c"/>
+<modify-entry
+   name="lateral_direita_menor_home.jpg"
+   text-time="working"/>
+<modify-entry
+   name="lateral_direita_menor_home.jpg"
+   working-size="working"/>
+<modify-entry
+   name="banner_rodape.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/banner_rodape.jpg.svn-base"
+   name=".svn/prop-base/tempfile.88.tmp"/>
+<readonly
+   name=".svn/prop-base/banner_rodape.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="banner_rodape.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="banner_rodape.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/banner_rodape.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="banner_rodape.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="banner_rodape.jpg"
+   name=".svn/tmp/text-base/banner_rodape.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/banner_rodape.jpg.svn-base"
+   name=".svn/tmp/text-base/banner_rodape.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/banner_rodape.jpg.svn-base"/>
+<modify-entry
+   name="banner_rodape.jpg"
+   checksum="74a4e8bc87753ea79fa323053e562019"/>
+<modify-entry
+   name="banner_rodape.jpg"
+   text-time="working"/>
+<modify-entry
+   name="banner_rodape.jpg"
+   working-size="working"/>
+<modify-entry
+   name="territorial.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/territorial.jpg.svn-base"
+   name=".svn/prop-base/tempfile.89.tmp"/>
+<readonly
+   name=".svn/prop-base/territorial.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="territorial.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="territorial.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/territorial.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="territorial.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="territorial.jpg"
+   name=".svn/tmp/text-base/territorial.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/territorial.jpg.svn-base"
+   name=".svn/tmp/text-base/territorial.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/territorial.jpg.svn-base"/>
+<modify-entry
+   name="territorial.jpg"
+   checksum="a1d4e20281082503e06aeaad707d63ec"/>
+<modify-entry
+   name="territorial.jpg"
+   text-time="working"/>
+<modify-entry
+   name="territorial.jpg"
+   working-size="working"/>
+<modify-entry
+   name="bg_degrade.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/bg_degrade.jpg.svn-base"
+   name=".svn/prop-base/tempfile.90.tmp"/>
+<readonly
+   name=".svn/prop-base/bg_degrade.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="bg_degrade.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="bg_degrade.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/bg_degrade.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="bg_degrade.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="bg_degrade.jpg"
+   name=".svn/tmp/text-base/bg_degrade.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/bg_degrade.jpg.svn-base"
+   name=".svn/tmp/text-base/bg_degrade.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/bg_degrade.jpg.svn-base"/>
+<modify-entry
+   name="bg_degrade.jpg"
+   checksum="37105717609c7e9072d765f25e170bd6"/>
+<modify-entry
+   name="bg_degrade.jpg"
+   text-time="working"/>
+<modify-entry
+   name="bg_degrade.jpg"
+   working-size="working"/>
+<modify-entry
+   name="esconde.gif"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/esconde.gif.svn-base"
+   name=".svn/prop-base/tempfile.91.tmp"/>
+<readonly
+   name=".svn/prop-base/esconde.gif.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="esconde.gif"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="esconde.gif"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/esconde.gif"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="esconde.gif"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="esconde.gif"
+   name=".svn/tmp/text-base/esconde.gif.svn-base"/>
+<mv
+   dest=".svn/text-base/esconde.gif.svn-base"
+   name=".svn/tmp/text-base/esconde.gif.svn-base"/>
+<readonly
+   name=".svn/text-base/esconde.gif.svn-base"/>
+<modify-entry
+   name="esconde.gif"
+   checksum="9480295dd7f183e833c9e14f4451c710"/>
+<modify-entry
+   name="esconde.gif"
+   text-time="working"/>
+<modify-entry
+   name="esconde.gif"
+   working-size="working"/>
+<modify-entry
+   name="rodape.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/rodape.jpg.svn-base"
+   name=".svn/prop-base/tempfile.92.tmp"/>
+<readonly
+   name=".svn/prop-base/rodape.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="rodape.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="rodape.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/rodape.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="rodape.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="rodape.jpg"
+   name=".svn/tmp/text-base/rodape.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/rodape.jpg.svn-base"
+   name=".svn/tmp/text-base/rodape.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/rodape.jpg.svn-base"/>
+<modify-entry
+   name="rodape.jpg"
+   checksum="3f8a48f193c100f5d3c85fc5cc24fac2"/>
+<modify-entry
+   name="rodape.jpg"
+   text-time="working"/>
+<modify-entry
+   name="rodape.jpg"
+   working-size="working"/>
+<modify-entry
+   name="tipo.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/tipo.jpg.svn-base"
+   name=".svn/prop-base/tempfile.93.tmp"/>
+<readonly
+   name=".svn/prop-base/tipo.jpg.svn-base"/>
+<modify-entry
+   committed-rev="56"
+   committed-date="2012-02-09T11:32:25.613579Z"
+   name="tipo.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="tipo.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/56/tags/tipo.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="tipo.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="tipo.jpg"
+   name=".svn/tmp/text-base/tipo.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/tipo.jpg.svn-base"
+   name=".svn/tmp/text-base/tipo.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/tipo.jpg.svn-base"/>
+<modify-entry
+   name="tipo.jpg"
+   checksum="bf9c8effc039f7c8fd39991da10a0f17"/>
+<modify-entry
+   name="tipo.jpg"
+   text-time="working"/>
+<modify-entry
+   name="tipo.jpg"
+   working-size="working"/>
+<modify-entry
+   name="background_hotsite.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/background_hotsite.jpg.svn-base"
+   name=".svn/prop-base/tempfile.94.tmp"/>
+<readonly
+   name=".svn/prop-base/background_hotsite.jpg.svn-base"/>
+<modify-entry
+   committed-rev="57"
+   committed-date="2012-02-09T12:40:36.165524Z"
+   name="background_hotsite.jpg"
+   last-author="danillo.silva"
+   uuid="158ee3dc-74f3-3a4a-9be0-f2206a7a8113"/>
+<modify-wcprop
+   name="background_hotsite.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/Imagens/!svn/ver/57/tags/background_hotsite.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="background_hotsite.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="63"/>
+<cp-and-translate
+   dest="background_hotsite.jpg"
+   name=".svn/tmp/text-base/background_hotsite.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/background_hotsite.jpg.svn-base"
+   name=".svn/tmp/text-base/background_hotsite.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/background_hotsite.jpg.svn-base"/>
+<modify-entry
+   name="background_hotsite.jpg"
+   checksum="3eccd28d6f362d1445e8b031fa9bbd8b"/>
+<modify-entry
+   name="background_hotsite.jpg"
+   text-time="working"/>
+<modify-entry
+   name="background_hotsite.jpg"
+   working-size="working"/>

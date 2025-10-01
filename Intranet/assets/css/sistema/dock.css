@@ -1,0 +1,94 @@
+
+.dock {
+    position: fixed;
+    bottom: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    /* padding: 10px; */
+    background-color: rgba(30, 30, 30, 0.09);
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.8);
+    gap: 5px;
+    z-index: 999999900 !important;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transform-origin: bottom center;
+
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    /* Borda branca translúcida */
+}
+
+
+/* .dock:hover {
+transform: translateX(-50%) scale(2); 
+} */
+.dock:hover {
+    /* transform: translateX(-50%) scaleX(1.0); */
+    /* Aumento apenas na horizontal (100%) */
+    /* Certifique-se de que a altura do dock não seja afetada */
+}
+
+.dock-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 0px;
+    padding-bottom: 6px;
+    border-radius: 12px;
+    position: relative;
+    transition: background 0.3s ease, transform 0.3s ease;
+}
+
+
+
+.dock img {
+    width: 35px;
+    transition: transform 0.4s ease;
+    will-change: transform;
+    cursor: pointer;
+}
+
+.dock-item img {
+    transition: transform 0.5s ease;
+}
+
+.dock-item:hover img {
+    transform: scale(1.5) translateY(-10px);
+
+
+    /* Zoom maior e sobe o ícone */
+}
+
+.dock-item:hover .tooltip {
+    opacity: 1;
+    transform: translateX(-50%) translateY(-40px);
+    /* Tooltip sobe mais junto com o ícone */
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    /* Suaviza a transição do tooltip */
+}
+
+.tooltip {
+    position: absolute;
+    bottom: 100%;
+    /* Posiciona o tooltip diretamente acima do ícone */
+    left: 50%;
+    transform: translateX(-50%) translateY(0);
+    background-color: rgba(30, 30, 30, 0.8);
+    color: #fff;
+    padding: 6px 10px;
+    font-size: 12px;
+    border-radius: 8px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    z-index: 10;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+

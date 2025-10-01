@@ -1,0 +1,35 @@
+
+
+#buscador {
+    border-radius: 25px;
+    background-color: rgba(80, 80, 80, 0.1);
+    /* Cinza bem claro e quase invisível */
+    color: rgba(255, 255, 255, 0.4);
+    /* Texto mais discreto */
+    border: none;
+    padding: 6px 18px;
+    font-size: 14px;
+    backdrop-filter: blur(3px);
+    /* Desfoque suave do fundo */
+    transition: all 0.3s ease;
+}
+
+#buscador::placeholder {
+    color: rgba(255, 255, 255, 0.4);
+    /* Placeholder bem sutil */
+}
+
+#buscador:focus {
+    background-color: rgba(80, 80, 80, 0.4);
+    /* Um pouco mais opaco no foco */
+    outline: none;
+    box-shadow: none;
+}
+
+.input-group {
+    width: 100%;
+    max-width: 400px;
+    /* Limite a largura do campo de busca */
+    margin: 0 auto;
+}
+

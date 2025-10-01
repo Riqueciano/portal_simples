@@ -1,0 +1,228 @@
+
+
+
+.desktop-area {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, auto));
+    justify-content: end;
+    /* Alinha todo o grid à direita */
+    gap: 30px;
+    padding: 20px;
+}
+
+
+.desktop-icon {
+    margin-left: auto;
+    /* Isso força cada item a se alinhar à direita da linha disponível */
+
+    transition: all 0.4s ease;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+.desktop-icon .desktop-label {
+    color: white;
+    font-size: 15px;
+    margin-top: 5px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* //shake icone */
+@keyframes shake {
+    0% {
+        transform: scale(1.3) rotate(-3deg);
+    }
+
+    25% {
+        transform: scale(1.3) rotate(3deg);
+    }
+
+    50% {
+        transform: scale(1.3) rotate(-3deg);
+    }
+
+    75% {
+        transform: scale(1.3) rotate(3deg);
+    }
+
+    100% {
+        transform: scale(1.3) rotate(-3deg);
+    }
+}
+
+.desktop-icon:hover {
+    transform: scale(1.3);
+    animation: shake 0.8s infinite;
+    animation-delay: 0.3s;
+    /* começa o shake depois que o scale termina */
+    border-radius: 10px;
+}
+
+.desktop-icon img {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    /* Garante que a imagem caiba sem distorcer */
+    margin-bottom: 5px;
+}
+
+
+.desktop-label {
+
+    font-size: 20px;
+    color: #2B3E54;
+    text-align: center;
+    max-width: 90px;
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+
+.desktop-listagem {
+    padding-top: 25px !important;
+    /* list-style: none; */
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(5, auto);
+    gap: 40px;
+    justify-content: start;
+}
+
+/* RESPONSIVO: muda o layout para colunas em telas menores */
+@media (max-width: 768px) {
+    .desktop-listagem {
+        grid-auto-flow: row;
+        /* ESSENCIAL! muda o fluxo para linhas */
+        grid-template-columns: repeat(4, 1fr);
+        /* 2 colunas */
+        grid-template-rows: auto;
+        justify-content: center;
+        gap: 40px;
+    }
+}
+
+
+@media (min-width: 1200px) and (max-width: 1640px) {
+    .desktop-listagem {
+        gap: 54px;
+        transform: scale(0.9);
+        /* reduz menos */
+    }
+
+    .desktop-listagem>* {
+        transform: scale(0.9);
+    }
+
+    .desktop-icon {
+        max-width: 80px;
+        max-height: 80px;
+    }
+}
+
+
+.desktop-listagem>* {
+    transform: scale(clamp(0.75, 1vw + 0.5, 1));
+}
+
+
+.desktop-listagem li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.desktop-listagem img {
+    max-width: 64px;
+    height: auto;
+}
+
+
+
+
+
+
+body,
+.body-bg {
+    overflow: hidden;
+}
+
+.body-bg::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--body-bg-color, #5D7357);
+    /*background-image: url('https://www.portalsema.ba.gov.br/_portal/template_intranet_verde/assets/bg/bg_incolor.png');*/
+    background-image: url('../../../template_intranet_verde/assets/bg/bg_incolor.png');
+
+    background-size: 2000px;
+    background-position: top left;
+    background-repeat: repeat;
+    z-index: -1;
+    opacity: 0;
+    transform: scale(2);
+    pointer-events: none;       /* Evita interação */
+    overflow: hidden;           /* Garante que nada "vaze" */
+    clip-path: inset(0);        /* Garante que nada ultrapasse os limites visuais */
+    animation: fadeZoomIn 1s ease-out forwards;
+}
+
+
+
+
+
+.logo_governo_vigente {
+    max-width: 150px;
+    height: auto;
+    border-radius: 10px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 1000;
+    opacity: 0.8;
+    /* Garante que fique por cima de outros elementos */
+}
+
+
+
+
+
+
+.desktop-only {
+    display: inline !important;
+}
+
+.mobile-only {
+    display: none !important;
+}
+
+@media (max-width: 768px) {
+    .desktop-only {
+        display: none !important;
+    }
+
+    .mobile-only {
+        display: inline !important;
+    }
+}
+
+
+

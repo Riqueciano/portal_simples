@@ -1,0 +1,71 @@
+
+
+body{
+	width:100%;
+	margin: 0 auto;
+	
+
+}
+#content{
+	border:0px solid #F00;
+        
+        background-color: #2C4257;
+        
+        moz-border-radius: 8px;
+        -webkit-border-radius: 8px;
+        -goog-ms-border-radius: 8px;
+        border-radius: 8px;
+	
+}
+#spanAniversario{
+	
+	 background-color: #2C4257;
+    opacity: 0.4;
+    moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -goog-ms-border-radius: 8px;
+    border-radius: 8px;
+        
+       
+	
+}
+/*
+.nav_menu{
+    moz-border-radius: 8px;
+        -webkit-border-radius: 8px;
+        -goog-ms-border-radius: 8px;
+        border-radius: 8px;
+    
+}*/
+.top_nav{
+    moz-border-radius: 8px;
+        -webkit-border-radius: 8px;
+        -goog-ms-border-radius: 8px;
+        border-radius: 8px;
+    
+}
+
+
+#bg{
+   /* border:2px solid #F00;*/
+	
+	
+	background-image: url('bg1.png');
+}
+#sidebar-menu{
+   /* border:2px solid #F00;*/
+	/*background-image: url(avatar3.png);*/
+	background-color: #2C4257;
+	
+}
+
+.carousel-caption{
+    
+    background-color: #2C4257;
+    opacity: 0.8;
+    moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -goog-ms-border-radius: 8px;
+    border-radius: 8px;
+    
+}

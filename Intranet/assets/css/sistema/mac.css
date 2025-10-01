@@ -1,0 +1,196 @@
+.janela-macos {
+  position: absolute;
+  top: -10px !important;
+  /* left: 50%; */
+  transform: translateX(-50%);
+  /* centraliza de verdade */
+
+  width: 85%;
+  height: 100%;
+  border-radius: 40px !important;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  border: 1.5px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 10px 70px rgba(0, 0, 0, 0.58);
+  z-index: 99997000 !important;
+
+  opacity: 0;
+  transform: translateY(100%) scale(0.8);
+  transition: transform 0.8s ease, opacity 0.5s ease;
+
+  background-color: #789484 !important;
+}
+
+/* ? Tema DARK ? macOS Sonoma/Ventura */
+.janela-macos.dark {
+  background: linear-gradient(145deg, #1c1c1e, #2c2c2e);
+  /* cinza escuro com leve profundidade */
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
+  color: #f5f5f7 !important;
+  /* branco fosco */
+}
+
+.janela-macos.light {
+  background: rgba(243, 243, 241, 0.3);
+  /* branco translúcido com leve tom gelo */
+  backdrop-filter: blur(15px) saturate(150%) contrast(120%);
+  -webkit-backdrop-filter: blur(15px) saturate(150%) contrast(120%);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 24px rgba(255, 255, 255, 0.2);
+  color: #1c1c1e !important;
+
+}
+
+
+.janela-macos.maximizando {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+
+.janela-macos.minimizando {
+  opacity: 0;
+  transform: translateY(20px) scale(0.8);
+}
+
+/* darkmode */
+.janela-macos.dark {
+  background: rgba(41, 41, 40, 0.6);
+  /* base escura translúcida */
+  backdrop-filter: blur(20px) saturate(160%);
+  -webkit-backdrop-filter: blur(20px) saturate(160%);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7);
+  color: #f5f5f5;
+}
+
+.barra-titulo.dark {
+  background: rgba(51, 51, 50, 0.7);
+  /* um pouco mais clara e translúcida */
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  color: #ffffff;
+}
+
+.mac-menu {
+  position: relative;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 14px;
+}
+
+.trigger {
+  cursor: pointer;
+  user-select: none;
+}
+
+.menu-box {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  background: rgba(30, 30, 30, 0.9);
+  backdrop-filter: blur(10px);
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.6);
+  width: 260px;
+  padding: 6px 0;
+  z-index: 1000;
+}
+
+.menu-item {
+  padding: 8px 16px;
+  color: #ddd;
+  white-space: nowrap;
+  transition: background 0.2s ease;
+}
+
+.menu-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+}
+
+.divider {
+  border-top: 0.5px solid rgba(255, 255, 255, 0.1);
+  margin: 0.4px 0;
+}
+
+.folha {
+  padding-left: 0px;
+  padding-right: 15px;
+}
+
+.menu-topo {
+  margin: 0;
+  padding: 0 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 38px;
+  background: rgba(6, 123, 212, 0.15);
+  /* azul acinzentado translúcido */
+  backdrop-filter: blur(18px) contrast(110%) saturate(120%);
+  -webkit-backdrop-filter: blur(18px) contrast(110%) saturate(120%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: inset 0 0 0.5px rgba(255, 255, 255, 0.2),
+    0 8px 24px rgba(0, 0, 0, 0.2);
+  color: #e0f7ff;
+  display: flex;
+  align-items: center;
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
+  z-index: 9999;
+}
+
+.barra-titulo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  /* encosta na lateral esquerda */
+  right: 0;
+  /* ocupa toda a largura */
+  height: 31px;
+  display: flex;
+  align-items: center;
+  padding-left: 12px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  user-select: none;
+  color: #333;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+
+
+  background-color: #789484 !important;
+}
+
+.barra-titulo_OLD {
+  /* Removido: position: absolute; */
+
+  height: 31px;
+  display: flex;
+  align-items: center;
+  padding-left: 12px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  user-select: none;
+  color: #333;
+
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.minimizada {
+  transition: transform 1.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.5s;
+  opacity: 0;
+}
+
+.conteudo-iframe {
+  flex: 1;
+  width: 100%;
+  border: none;
+  border-radius: 12px;
+}

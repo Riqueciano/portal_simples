@@ -1,0 +1,28 @@
+body { 
+        font-family: arial;
+}
+
+.titulo {
+	font-size: 16pt;
+	font-weight: bold;
+	color: #000000;
+}
+
+.linha_titulo {
+	font-size: 10pt;
+	font-weight: bold;	
+	color: #000000;
+}
+
+.linha {
+	font-size: 11px;
+	color: #000000;
+}
+
+.RealmenteInvisivel {
+	border: 0px solid #888888;
+	font-size: 12px;	
+	color: #000000;
+	font-family: Arial, Verdana, Helvetica, sans-serif;	
+	overflow:hidden;	
+}	

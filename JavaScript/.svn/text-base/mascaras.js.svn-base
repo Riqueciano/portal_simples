@@ -1,0 +1,64 @@
+jQuery(function($){
+	$.mask.definitions['h']='[012]';
+	$.mask.definitions['m']='[012345]';
+	$(".hora").mask("h9:m9");
+	$(".placa").mask("aaa-9999");
+	$(".data").mask("99/99/9999");
+        $(".mask-Cod").mask("99999999-9");
+        $(".mes_ano").mask("99/9999");
+        $(".numero").mask("9999");
+        $(".cep").mask("99999-999");
+        $(".MascaraMaterial").mask("99.999-9999");
+        $(".telefone").mask("99-9999-9999");
+        
+        //MÁSCARA PARA CÓDIGO DE FONTE - SISTEMA ORÇAMENTÁRIO
+        $("#fonte_codigo").mask("99");
+        
+        //MÁSCARA PARA CÓDIGO DE ELEMENTO - SISTEMA ORÇAMENTÁRIO
+        $("#elemento_codigo").mask("9.9.99.99");
+        
+        //MÁSCARA PARA CÓDIGO DE SUBELEMENTO - SISTEMA ORÇAMENTÁRIO
+        $("#subelemento_codigo").mask("99.99-9");
+        
+        //MÁSCARA PARA CÓDIGO DE PRODUTO - SISTEMA ORÇAMENTÁRIO
+        $("#produto_codigo").mask("9999");
+        
+        //MÁSCARA PARA CÓDIGO DE AÇÃO - SISTEMA ORÇAMENTÁRIO
+        $("#acao_codigo").mask("9999");
+        
+        //MÁSCARA PARA CÓDIGO DE UNIDADE ORÇAMENTÁRIA - SISTEMA ORÇAMENTÁRIO
+        $("#estrutura_organizacional_cod_unid_orcamentaria").mask("99.99.999");
+        
+        //MÁSCARA PARA CÓDIGO DE UNIDADE ORÇAMENTÁRIA - SISTEMA ORÇAMENTÁRIO
+        $("#estrutura_organizacional_cod_unid_gestora").mask("99.999");  
+        
+        //MÁSCARA PARA CÓDIGO DE UNIDADE EXECUTORA - SISTEMA ORÇAMENTÁRIO
+        $("#estrutura_organizacional_cod_unid_executora").mask("99.999");
+        
+        //MÁSCARA PARA CÓDIGO DE UNIDADE DE CUSTO (RH) - SISTEMA ORÇAMENTÁRIO
+        $("#estrutura_organizacional_cod_unid_de_custo").mask("99.99999");
+        
+        //MÁSCARA PARA CÓDIGO DE UNIDADE DE MATERIAIS - SISTEMA ORÇAMENTÁRIO
+        $("#estrutura_organizacional_cod_materiais").mask("99.999-9999");
+        
+        //MÁSCARA PARA CÓDIGO DE PODER - SISTEMA ORÇAMENTÁRIO
+        $("#poder_codigo").mask("99");
+        
+        //MÁSCARA PARA CÓDIGO DE FUNÇÃO CÓDIGO - SISTEMA ORÇAMENTÁRIO
+        $("#funcao_codigo").mask("99");
+        
+        //MÁSCARA PARA CÓDIGO DE SUBFUNÇÃO - SISTEMA ORÇAMENTÁRIO
+        $("#subfuncao_codigo").mask("999");
+        
+        //MÁSCARA PARA VALOR DAS CLASSES - SISTEMA CADASTRO ÚNICO
+        $(".valor").mask("99999");
+
+        //MÁSCARA PARA A SIGLA DE 2 CARACTERES - SISTEMA CADASTRO
+        $("#pais_sigla_2").mask("aa");
+
+        //MÁSCARA PARA A SIGLA DE 3 CARACTERES - SISTEMA CADASTRO
+        $("#pais_sigla_3").mask("aaa");
+        
+        //MÁSCARA PARA O CRACHÁ  - SISTEMA CONTROLE DE ACESSO
+        $(".cracha").mask("999");
+});

@@ -1,0 +1,757 @@
+
+
+
+<table>
+    <tr>
+        <th>Município</th>
+        <th>Território</th>
+        <th>Secretário</th>
+        <th>CPF do Secretário</th>
+        <th>Data de Nascimento</th>
+        <th>Naturalidade</th>
+        <th>Nome da mãe</th>
+        <th>E-mail</th>
+        <th>Telefone</th>
+    </tr>
+        <tr>
+        <td>IGAPORÃ</td>
+        <td>VELHO CHICO</td>
+        <td>ROGÉRIO  RODRIGUES BATISTA</td>
+        <td>736.25523515</td>
+        <td>1972-01-10</td>
+        <td>IGAPORÃ-BA</td>
+        <td>TEREZINHA NUNES  BATISTA</td>
+        <td>rogerio10iga@gmail.com</td>
+        <td>7791419337</td>
+    </tr>
+    
+    
+        <tr>
+        <td>Muquém do São Francisco</td>
+        <td>VELHO CHICO</td>
+        <td>OSLEIDE ALVES DOS SANTOS</td>
+        <td>54050383500</td>
+        <td></td>
+        <td>MORPARA</td>
+        <td>ADELITA ALVES DOS SANTOS</td>
+        <td>agrimuquem@hotmail.com</td>
+        <td>77999419093</td>
+    </tr>
+    
+    
+        <tr>
+        <td>OLIVEIRA DOS BREJINHOS</td>
+        <td>VELHO CHICO</td>
+        <td>Thales Alves Donato de Assis</td>
+        <td>02835623582</td>
+        <td></td>
+        <td>Salvador-BA</td>
+        <td>Ana Rita Alves Donato</td>
+        <td>thalesvetassis@gmail.com</td>
+        <td>77999020964</td>
+    </tr>
+    
+    
+        <tr>
+        <td>PARATINGA</td>
+        <td>VELHO CHICO</td>
+        <td>ORLANDO PEREIRA DE SOUZA JUNIOR</td>
+        <td>48334120559</td>
+        <td></td>
+        <td>PARATINGA</td>
+        <td>AIDIL LEAL DE SOUZA</td>
+        <td>orlandoparatinga@gmail.com</td>
+        <td>77999556797</td>
+    </tr>
+    
+    
+        <tr>
+        <td>RIACHO DE SANTANA</td>
+        <td>VELHO CHICO</td>
+        <td>FLÁVIA TAIZE CARDOSO MOREIRA</td>
+        <td>038.722785-76</td>
+        <td>1993-08-17</td>
+        <td>RIACHO DE SANTANA</td>
+        <td>ELIENE DOS SANTOS CARDOSO</td>
+        <td>flataize@gmail.com</td>
+        <td>77 99856-5148</td>
+    </tr>
+    
+    
+        <tr>
+        <td>ANAGÉ</td>
+        <td>Sudoeste Baiano</td>
+        <td>RAFAEL SANTOS SOARES </td>
+        <td>02137121565</td>
+        <td>1985-04-28</td>
+        <td>Vitória da Conquista </td>
+        <td>ENI DIAS SANTOS SOARES</td>
+        <td>agrianage@gmail.com</td>
+        <td>77 99997-8286</td>
+    </tr>
+    
+    
+        <tr>
+        <td>ARACATU</td>
+        <td>Sudoeste Baiano</td>
+        <td>ROBÉRIO VIRGENS AIRES</td>
+        <td>12654698572</td>
+        <td></td>
+        <td>ARACATU-BA</td>
+        <td>IRIS VIRGENS AIRES</td>
+        <td>agricultura@aracatu.ba.gov.br</td>
+        <td>(77) 9 8104-2712</td>
+    </tr>
+    
+    
+        <tr>
+        <td>BOM JESUS DA SERRA</td>
+        <td>Sudoeste Baiano</td>
+        <td>ALDAIR AMBROZIO DA SILVA</td>
+        <td>08046742562</td>
+        <td>1997-01-28</td>
+        <td>BRASILEIRA</td>
+        <td>MARLENE TEIXEIRA DA SILVA</td>
+        <td>aldairambrozio@gmail.com</td>
+        <td>77988399359</td>
+    </tr>
+    
+    
+        <tr>
+        <td>LICÍNIO DE ALMEIDA</td>
+        <td>Sudoeste Baiano</td>
+        <td>JOSÉ DOS SANTOS LEAL</td>
+        <td>10600108520</td>
+        <td></td>
+        <td></td>
+        <td>MARIA DOS SANTOS LEAL</td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    
+        <tr>
+        <td>TREMEDAL</td>
+        <td>Sudoeste Baiano</td>
+        <td>ROBERTO DA SILVA ALVES</td>
+        <td>02288772530</td>
+        <td></td>
+        <td>TREMEDAL-BA</td>
+        <td>CREUZA VIEIRA ALVES</td>
+        <td>sec.agri.tremedal@gmail.com</td>
+        <td>77998640692</td>
+    </tr>
+    
+    
+        <tr>
+        <td>CURAÇÁ</td>
+        <td>SERTÃO DO SÃO FRANCISCO</td>
+        <td>TICIANO DANTAS FÉLIX</td>
+        <td>68585969504</td>
+        <td>1975-05-05</td>
+        <td>JUAZEIRO</td>
+        <td>MARIA DO SOCORRO DANTAS FÉLIX</td>
+        <td>ticianofelix@hotmail.com</td>
+        <td>7499254454</td>
+    </tr>
+    
+    
+        <tr>
+        <td>SENTO SÉ</td>
+        <td>SERTÃO DO SÃO FRANCISCO</td>
+        <td>Naate karém dos santos araújo silva</td>
+        <td>05814443537</td>
+        <td>1995-04-22</td>
+        <td>Juazeiro BA</td>
+        <td>Valdeci dos santos araujo</td>
+        <td>naatekaremaraujo@gmail.com</td>
+        <td>74981068391</td>
+    </tr>
+    
+    
+        <tr>
+        <td>UAUÁ</td>
+        <td>SERTÃO DO SÃO FRANCISCO</td>
+        <td>JOSÉ JACKSON CARDOSO RIBEIRO</td>
+        <td>25159259520</td>
+        <td>1962-12-08</td>
+        <td>UAUÁ</td>
+        <td>ERONILDES CARDOSO DE MORAES</td>
+        <td>jacksoncardosodeuaua@hotmail.com</td>
+        <td>(74) 9 9978-0144</td>
+    </tr>
+    
+    
+        <tr>
+        <td>CACULÉ</td>
+        <td>SERTÃO PRODUTIVO</td>
+        <td>Joaquim Santos da Silva</td>
+        <td>00494351594</td>
+        <td>1978-03-26</td>
+        <td>IBIASSUCE - BA</td>
+        <td>Filomena do Santos Silveira</td>
+        <td>joaquimsds26@gmail.com</td>
+        <td>(77) 9812-49814</td>
+    </tr>
+    
+    
+        <tr>
+        <td>CAETITÉ</td>
+        <td>SERTÃO PRODUTIVO</td>
+        <td>KELLY G CARVALHO OLIVEIRA</td>
+        <td>017.39834569</td>
+        <td></td>
+        <td>GUANAMBI</td>
+        <td>MARIA LUCIA DE CARVALHO OLIVEIRA</td>
+        <td>kellygisley@gmail.com</td>
+        <td>(77) 99800-2609</td>
+    </tr>
+    
+    
+        <tr>
+        <td>DOM BASÍLIO</td>
+        <td>SERTÃO PRODUTIVO</td>
+        <td>DEBORAH SANTOS DIAS OLIVEIRA</td>
+        <td>84364416568</td>
+        <td>1990-05-09</td>
+        <td>LIVRAMENTO DE NOSSA SENHORA</td>
+        <td>DULCEMAR MOREIRA SANTOS DIAS</td>
+        <td>agriculturaecomerciodb@gmail.com</td>
+        <td>77991246901</td>
+    </tr>
+    
+    
+        <tr>
+        <td>GUANAMBI</td>
+        <td>SERTÃO PRODUTIVO</td>
+        <td>Pedro Henrique Pereira de Souza</td>
+        <td>06595984504</td>
+        <td></td>
+        <td>Guanambi - BA</td>
+        <td>Miza Pereira de Souza</td>
+        <td>pedrohp.00@hotmail.com</td>
+        <td>77 9 9906 7929</td>
+    </tr>
+    
+    
+        <tr>
+        <td>IBIASSUCÊ</td>
+        <td>SERTÃO PRODUTIVO</td>
+        <td>EDNO MESSIAS BRITO DE ANDRADE</td>
+        <td>11619651572</td>
+        <td>1976-09-07</td>
+        <td>IBIASSUCE-BA</td>
+        <td>MARIA DO CARMO BRITO DE ANDRADE</td>
+        <td>seagrima.ibiassuce@hotmail.com</td>
+        <td>77991165050</td>
+    </tr>
+    
+    
+        <tr>
+        <td>MALHADA DE PEDRAS</td>
+        <td>SERTÃO PRODUTIVO</td>
+        <td>Leonardo Souza Brito</td>
+        <td>04786104590</td>
+        <td></td>
+        <td>RIO DO ANTONIO</td>
+        <td>Maria Santina de Souza Brito</td>
+        <td>seagri.mp1@gmail.com</td>
+        <td>34492120</td>
+    </tr>
+    
+    
+        <tr>
+        <td>PALMAS DE MONTE ALTO</td>
+        <td>SERTÃO PRODUTIVO</td>
+        <td>MAURICIO LUSIO VIEIRA PEREIRA</td>
+        <td>269.949.845-91</td>
+        <td></td>
+        <td></td>
+        <td>EURITA VIEIRA CARDOSO PEREIRA</td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    
+        <tr>
+        <td>TANHAÇU</td>
+        <td>SERTÃO PRODUTIVO</td>
+        <td>WILLIAM SILVA ROCHA</td>
+        <td>09388226593</td>
+        <td></td>
+        <td></td>
+        <td>SUELI ROSA DA SILVA ROCHA</td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    
+        <tr>
+        <td>URANDI</td>
+        <td>SERTÃO PRODUTIVO</td>
+        <td>ANTONINO DAVI NETO</td>
+        <td>02242547585</td>
+        <td></td>
+        <td></td>
+        <td>SILVANA DA SILVA MATOS DAVID</td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    
+        <tr>
+        <td>MARACÁS</td>
+        <td>VALE DO JIQUIRIÇÁ</td>
+        <td>Daniel de Almeida</td>
+        <td>77831314504</td>
+        <td></td>
+        <td></td>
+        <td>Ana Maria</td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    
+        <tr>
+        <td>MARACÁS</td>
+        <td>VALE DO JIQUIRIÇÁ</td>
+        <td>QUELI CARMELINA DE SOUZA GONÇALVEZ</td>
+        <td>01852686502</td>
+        <td>1984-08-28</td>
+        <td>SALVADOR</td>
+        <td>MARIA IRIS DE SOUZA GONÇALVES</td>
+        <td>agroqueli28@gmail.com</td>
+        <td>(73)99947-6600</td>
+    </tr>
+    
+    
+        <tr>
+        <td>PLANALTINO</td>
+        <td>VALE DO JIQUIRIÇÁ</td>
+        <td>Geneval Avelino de Carvalho Junior</td>
+        <td>66522706504</td>
+        <td></td>
+        <td>Itambé - Bahia</td>
+        <td>Liezenita Andrade Carvalho</td>
+        <td>agriculturaplanaltino1@gmail.com</td>
+        <td>73 99974-8250</td>
+    </tr>
+    
+    
+        <tr>
+        <td>BOM JESUS DA LAPA</td>
+        <td>VELHO CHICO</td>
+        <td>JOSE SABINO DA SILVA</td>
+        <td>02242748483</td>
+        <td>1971-10-27</td>
+        <td>TUPANATINGA - PERNAMBUCO</td>
+        <td>MARINETE CAETANO DE SOUZA SILVA</td>
+        <td>saama_ba@hotmail.com</td>
+        <td>7734814161</td>
+    </tr>
+    
+    
+        <tr>
+        <td>BROTAS DE MACAÚBAS</td>
+        <td>VELHO CHICO</td>
+        <td>Wemerson Cleiton Rosa de Araújo</td>
+        <td>894.214.695-34</td>
+        <td></td>
+        <td>Brotas de Macaúbas/Bahia</td>
+        <td>Neusa Rosa de Araújo</td>
+        <td>wemerson.brotas@gmail.com</td>
+        <td>77991065961</td>
+    </tr>
+    
+    
+        <tr>
+        <td>IBOTIRAMA</td>
+        <td>VELHO CHICO</td>
+        <td>ALEXSANDRO DE SOUZA TEIXEIRA</td>
+        <td>00417107544</td>
+        <td></td>
+        <td>CANARANA/BA</td>
+        <td>AURENI ALVES DE SOUZA</td>
+        <td>sandrotvc@gmail.com</td>
+        <td>77999257327</td>
+    </tr>
+    
+    
+        <tr>
+        <td>IAÇU</td>
+        <td>PIEMONTE DO PARAGUAÇU</td>
+        <td>ANA CARMEN PANTOJA LOPES</td>
+        <td>10976922215</td>
+        <td></td>
+        <td>BELÉM</td>
+        <td>MARIA DE NAZARÉ PANTOJA LOPES</td>
+        <td>semagri.equipe@gmail.com</td>
+        <td>75983215900</td>
+    </tr>
+    
+    
+        <tr>
+        <td>LAJEDINHO</td>
+        <td>PIEMONTE DO PARAGUAÇU</td>
+        <td>ANTONIO JOSE MARQUES SANTOS</td>
+        <td>00138828563</td>
+        <td></td>
+        <td></td>
+        <td>ROSALIA DA SILVA MARQUES SANTOS</td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    
+        <tr>
+        <td>MACAJUBA</td>
+        <td>PIEMONTE DO PARAGUAÇU</td>
+        <td>JOSE RODRIGUES DA COSTA JUNIOR</td>
+        <td>02267921537</td>
+        <td></td>
+        <td>MACAJUBA</td>
+        <td>JOANITA SANTOS DE OLIVEIRA</td>
+        <td>sama.macajuba@gmail.com</td>
+        <td>74999802504</td>
+    </tr>
+    
+    
+        <tr>
+        <td>JAGUARARI</td>
+        <td>PIEMONTE NORTE DO ITAPICURU</td>
+        <td>AILSON DE SOUZA BISPO</td>
+        <td>621802665-53</td>
+        <td></td>
+        <td>Jaguarari-BA</td>
+        <td>ANTONIA LINO BISPO</td>
+        <td>agriculturajaguarari@gmail.com</td>
+        <td>74-99937-7288</td>
+    </tr>
+    
+    
+        <tr>
+        <td>IPUPIARA</td>
+        <td>IRECÊ</td>
+        <td>CLAUCIO ROBERTO RODRIGUES BOAMOND</td>
+        <td>39586936520</td>
+        <td></td>
+        <td>Ibitunane - Gentio do Ouro</td>
+        <td>CATIA MARIA BOAMOND RODRIGUES</td>
+        <td>agricultura.ipupiara@gmail.com</td>
+        <td>77 3646-1067</td>
+    </tr>
+    
+    
+        <tr>
+        <td>JOÃO DOURADO</td>
+        <td>IRECÊ</td>
+        <td>FABIO PEREIRA DE MORAIS</td>
+        <td>986.740.565-04</td>
+        <td>1980-01-05</td>
+        <td>JACOBINA/BA</td>
+        <td>ALZINETE PEREIRA DE MORAIS</td>
+        <td>fabio.agricultura@joaodourado.ba.gov.br</td>
+        <td>74999980533</td>
+    </tr>
+    
+    
+        <tr>
+        <td>LAPÃO</td>
+        <td>IRECÊ</td>
+        <td>ORESTES MENEZES MARIANO</td>
+        <td>94160406572</td>
+        <td>1974-07-18</td>
+        <td>IRECE- BA </td>
+        <td>CANTIDIA MENEZES MARIANO</td>
+        <td>semaia@lapao.ba.gov.br</td>
+        <td>74999169257</td>
+    </tr>
+    
+    
+        <tr>
+        <td>MULUNGU DO MORRO</td>
+        <td>IRECÊ</td>
+        <td>CLÉRISTON VITOR MENDES DE SOUZA</td>
+        <td>97526304568</td>
+        <td></td>
+        <td>Mulungu do Morro Ba</td>
+        <td>ODELITA OLIVEIRA MENDES</td>
+        <td>cleristonvitor@hotmail.com</td>
+        <td>(74)991907535</td>
+    </tr>
+    
+    
+        <tr>
+        <td>SÃO GABRIEL</td>
+        <td>IRECÊ</td>
+        <td>FRANCISCO DA SILVA</td>
+        <td>31773389572</td>
+        <td></td>
+        <td>SÃO GABRIEL</td>
+        <td>MARIA QUITERIA DA SILVA</td>
+        <td>secagricultura.saogabriel@gmail.com</td>
+        <td>74999528979</td>
+    </tr>
+    
+    
+        <tr>
+        <td>XIQUE-XIQUE</td>
+        <td>IRECÊ</td>
+        <td>JOELSON ALVES DE ALMEIDA</td>
+        <td>39153720563</td>
+        <td></td>
+        <td>CENTRAL/BA</td>
+        <td>CELICE GONÇALVES DE ALMEIDA</td>
+        <td>joalvesdealmeida84@gmail.com</td>
+        <td>74999980891</td>
+    </tr>
+    
+    
+        <tr>
+        <td>BOA NOVA</td>
+        <td>MEDIO RIO DAS CONTAS</td>
+        <td>IVONILDO PEIXOTO MIRANDA</td>
+        <td>39922561549</td>
+        <td></td>
+        <td>ITAGIBÁ - BA</td>
+        <td>IVONILDES PEIXOTO MIRANDA</td>
+        <td>agriculturaboanova@outlook.com</td>
+        <td>(73)99999-9145</td>
+    </tr>
+    
+    
+        <tr>
+        <td>VÁRZEA DO POÇO</td>
+        <td>BACIA DO JACUÍPE</td>
+        <td>WILSON RIOS FILHO</td>
+        <td>4921411506</td>
+        <td>1966-01-17</td>
+        <td>MIGUEL CALMON</td>
+        <td>GEAZIR AGATÃO RIOS</td>
+        <td>secretariasaama@gmail.com</td>
+        <td>(74) 999496532</td>
+    </tr>
+    
+    
+        <tr>
+        <td>CANÁPOLIS</td>
+        <td>BACIA DO RIO CORRENTE</td>
+        <td>Tibério César Brandão Silva</td>
+        <td>27992993500</td>
+        <td></td>
+        <td>Santana BA</td>
+        <td>Altair Brandão Silva</td>
+        <td>tiberiobrandao@bol.com.br</td>
+        <td>77999815137</td>
+    </tr>
+    
+    
+        <tr>
+        <td>CORRENTINA</td>
+        <td>BACIA DO RIO CORRENTE</td>
+        <td>HANNES TAVARES DE MOURA</td>
+        <td>00474465527</td>
+        <td></td>
+        <td>CORRENTINA  - BAHIA</td>
+        <td>SILVANDINA TAVARES DE MOURA</td>
+        <td>hannesmoura@hotmail.com</td>
+        <td>77988171439</td>
+    </tr>
+    
+    
+        <tr>
+        <td>JABORANDI</td>
+        <td>BACIA DO RIO CORRENTE</td>
+        <td>Paulo Silas Oliveira da Silva</td>
+        <td>02707809551</td>
+        <td></td>
+        <td>Cícero Dantas-Ba</td>
+        <td>Marileide Matos de Oliveira</td>
+        <td>seagrimao@gmail.com</td>
+        <td>75999576980</td>
+    </tr>
+    
+    
+        <tr>
+        <td>SANTA MARIA DA VITÓRIA</td>
+        <td>BACIA DO RIO CORRENTE</td>
+        <td>JOAO FERREIRA DA SILVA </td>
+        <td>23379022187</td>
+        <td></td>
+        <td>SANTA MARIA DA VITORIA </td>
+        <td>ALZIRA ALVES FERREIRA </td>
+        <td>joaoferreira@santamariadavitoria.ba.gov.br </td>
+        <td>7798808-7039</td>
+    </tr>
+    
+    
+        <tr>
+        <td>SÃO FÉLIX DO CORIBE</td>
+        <td>BACIA DO RIO CORRENTE</td>
+        <td>IDALINO CAITANO DE ARAÚJO</td>
+        <td>52581314591</td>
+        <td></td>
+        <td>BREJOLANDIA BA </td>
+        <td>AUGUSTA GERTRUDES DA CONCEIÇÃO</td>
+        <td>IDALINOCAETANO@BOL.COM.BR</td>
+        <td>77999607329</td>
+    </tr>
+    
+    
+        <tr>
+        <td>SERRA DOURADA</td>
+        <td>BACIA DO RIO CORRENTE</td>
+        <td>EVANILSON CASTRO FROTA</td>
+        <td>36439886568</td>
+        <td></td>
+        <td>SERRA DOURADA</td>
+        <td>MARIA CASTRO FROTA</td>
+        <td>evanilson.frota@gmail.com</td>
+        <td>776181411373</td>
+    </tr>
+    
+    
+        <tr>
+        <td>ABAÍRA</td>
+        <td>CHAPADA DIAMANTINA</td>
+        <td>carlos eduardo jardim moreira</td>
+        <td>04171418585</td>
+        <td></td>
+        <td></td>
+        <td>Celania Jardim Moreira</td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    
+        <tr>
+        <td>ANDARAÍ</td>
+        <td>CHAPADA DIAMANTINA</td>
+        <td>Edinaldo Souza de Oliveira</td>
+        <td>631.67042591</td>
+        <td></td>
+        <td>Andaraí -Ba</td>
+        <td>Luzia Souza de Oliveira</td>
+        <td>agricultura.andarai@gmail.com</td>
+        <td>75 82348951</td>
+    </tr>
+    
+    
+        <tr>
+        <td>IBITIARA</td>
+        <td>CHAPADA DIAMANTINA</td>
+        <td>Álvaro Antônio Xavier De Andrade</td>
+        <td>96864036553</td>
+        <td></td>
+        <td></td>
+        <td>Nadir Alves Xavier de Andrade</td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    
+        <tr>
+        <td>IBITIARA</td>
+        <td>CHAPADA DIAMANTINA</td>
+        <td>Álvaro Antônio Xavier De Andrade</td>
+        <td>96864036553</td>
+        <td>1978-03-10</td>
+        <td>são paulo</td>
+        <td>Nadir Alves Xavier de Andrade</td>
+        <td>aaxandrade2@hotmail.com</td>
+        <td>31987084429</td>
+    </tr>
+    
+    
+        <tr>
+        <td>IRAQUARA</td>
+        <td>CHAPADA DIAMANTINA</td>
+        <td>JORGE PAULO DE MIRANDA </td>
+        <td>41771605553</td>
+        <td></td>
+        <td>IRAQUARA</td>
+        <td>ANTONIA MESSIAS MIRANDA </td>
+        <td>jorge43000@hotmail.com.br</td>
+        <td>75999101749</td>
+    </tr>
+    
+    
+        <tr>
+        <td>MUCUGÊ</td>
+        <td>CHAPADA DIAMANTINA</td>
+        <td>JOSÉ ERNESTO MATTOS ALVES</td>
+        <td>008.610.355-50</td>
+        <td>1983-04-10</td>
+        <td>MUCUGÊ-BA</td>
+        <td>TACIMAR MATTOS ALVES</td>
+        <td>agroernesto@agroernesto.com.br</td>
+        <td>7598220-8000</td>
+    </tr>
+    
+    
+        <tr>
+        <td>NOVA REDENÇÃO</td>
+        <td>CHAPADA DIAMANTINA</td>
+        <td>CARLOS RODRIGUES LIMA</td>
+        <td>33999831820</td>
+        <td></td>
+        <td></td>
+        <td>MARIETA BISPO DE OLIVEIRA</td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    
+        <tr>
+        <td>PALMEIRAS</td>
+        <td>CHAPADA DIAMANTINA</td>
+        <td>PRISCILA MACHADO XAVIER</td>
+        <td>005.471.025-18</td>
+        <td></td>
+        <td></td>
+        <td>ELISETE MACHADO DA SILVA</td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    
+        <tr>
+        <td>PIATÃ</td>
+        <td>CHAPADA DIAMANTINA</td>
+        <td>JEAN CLEBER MACEDO</td>
+        <td>04808476576</td>
+        <td></td>
+        <td></td>
+        <td>ZENAIDE MACEDO MATOS</td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    
+        <tr>
+        <td>SEABRA</td>
+        <td>CHAPADA DIAMANTINA</td>
+        <td>JOSE MARTINS DOS ANJOS</td>
+        <td>17903246534</td>
+        <td></td>
+        <td></td>
+        <td>Zenilda Maria Dos Anjos</td>
+        <td></td>
+        <td></td>
+    </tr>
+    
+    
+        <tr>
+        <td>UTINGA</td>
+        <td>CHAPADA DIAMANTINA</td>
+        <td>SIVIO SENA DE MORAIS</td>
+        <td>36461709568</td>
+        <td>1966-06-14</td>
+        <td>CAFARNAUM-BA</td>
+        <td>ZILDA SOUZA SENA</td>
+        <td>agricultura@utinga.ba.gov</td>
+        <td>075988459279</td>
+    </tr>
+    
+    
+    </table>
